@@ -1,0 +1,208 @@
+jQuery(document).ready(function () {
+      if (jQuery.fn.select2) {
+        jQuery('#my-select2').select2();
+
+        jQuery('#my-select2').on('select2:open', function () {
+          jQuery('.select2-dropdown').css({
+            'max-height': '300px',
+            'overflow-y': 'auto'
+          });
+        });
+      } else {
+        console.error("Select2 is not loaded. Please ensure the library is included correctly.");
+      }
+    });
+
+
+function sweet_alert(heading, message, alert_type) {
+  Swal.fire(
+      heading,
+      message,
+      alert_type
+  );
+}
+function ValidateFormStarupSubmit(formclass, label = '') {
+
+    jQuery(document).off().on("submit", "." + formclass, function (e) {
+        document.querySelectorAll('.error').forEach(function(el) {
+          el.innerText = '';
+        });
+        e.preventDefault();
+        var ajax_save_form = jQuery(this);
+        var formaction = ajax_save_form.attr('data-action');
+        jQuery.ajax({
+            enctype: 'multipart/form-data',
+            url: formaction,
+            data: new FormData(this),
+            method: 'post',
+            async: true,
+            dataType: 'json',
+            processData: false,
+            contentType: false,
+            cache: false,
+            timeout: 600000,
+            beforeSend: function() {
+                ajax_save_form.find(":submit").prop('disabled', true);
+                ajax_save_form.find(":submit").html('Processing please wait...');
+            },
+            success: function(response) {
+                ajax_save_form.find(":submit").prop('disabled', false);
+                ajax_save_form.find(":submit").html(label);
+                Swal.fire({
+                    title: '',
+                    html: response.message,
+                    icon: '',
+                    showCancelButton: false,
+                    confirmButtonText: 'Okay',
+                }).then((result) => {
+                    if (result.isConfirmed) {
+                        if (response.status) {
+                          if (response.http_redirect) {
+                            window.location.href = response.http_redirect;
+                          } else {
+                            window.location.reload();
+                          }
+                      } 
+                    }
+                });
+            }
+        });
+    });
+}
+
+function ValidateFormStarupSubmit_old(formclass, label = '') {
+    jQuery(document).off().on("submit", "." + formclass, function (e) {
+        document.querySelectorAll('.error').forEach(function(el) {
+          el.innerText = '';
+        });
+        e.preventDefault();
+        var ajax_save_form = jQuery(this);
+        var formaction = ajax_save_form.attr('data-action');
+        jQuery.ajax({
+            enctype: 'multipart/form-data',
+            url: formaction,
+            data: new FormData(this),
+            method: 'post',
+            async: true,
+            dataType: 'json',
+            processData: false,
+            contentType: false,
+            cache: false,
+            timeout: 600000,
+            beforeSend: function() {
+                ajax_save_form.find(":submit").prop('disabled', true);
+                ajax_save_form.find(":submit").html('Processing please wait...');
+            },
+            success: function(response) {
+                ajax_save_form.find(":submit").prop('disabled', false);
+                ajax_save_form.find(":submit").html(label);
+                if (response.status) {
+                  if (response.http_redirect) {
+                    window.location.href = response.http_redirect;
+                  } else {
+                    window.location.reload();
+                  }
+                } else {
+                  // Display error messages in SweetAlert
+                  let errorMessages = '';
+                  for (let field in response.message) {
+                    errorMessages += `<p>${response.message[field][0]}</p>`;
+                  }
+                  Swal.fire({
+                    icon: 'error',
+                    title: 'Form Validation Error',
+                    html: errorMessages, // Use HTML to render multiple lines
+                    confirmButtonText: 'Ok'
+                  });
+                }
+            },
+            error: function(xhr, status, error) {
+                Swal.fire({
+                    icon: 'error',
+                    title: 'Submission Failed',
+                    text: 'An error occurred while submitting the form. Please try again.',
+                    confirmButtonText: 'Ok'
+                });
+                ajax_save_form.find(":submit").prop('disabled', false);
+                ajax_save_form.find(":submit").html(label);
+            }
+        });
+    });
+}
+
+$(document).ready(function () {
+  jQuery.validator.addMethod("validMobile", function (value, element) {
+    // Regex to match 10-digit numbers starting with 6, 7, 8, or 9
+    return this.optional(element) || /^[6-9]\d{9}$/.test(value);
+  }, "Please enter a valid 10-digit mobile number");
+  
+
+  jQuery("#startupformstarted").validate({
+    rules: {
+      contact_no: {
+        required: true,
+        validMobile: true
+      },
+      grecaptcha: {
+        required: true,
+      }
+    }
+  });
+});
+function recaptchaCallback() {
+  var response = grecaptcha.getResponse();
+  jQuery("#grecaptcha").val(response);
+}
+
+function recaptchaExpired() {
+  // jQuery("#grecaptcha").val("");
+}
+
+
+
+jQuery(document).ready(function() {
+    jQuery('.search-single-select').select2();
+});
+
+function getcititlistdata(identifier) {
+  const stateid = jQuery(identifier).find(':selected').data('stateid');
+
+  jQuery.ajax({
+      type: 'get',
+      url: '//tieconchandigarh.com/startupddata/get-cities-list',
+      data: {
+        stateid:  stateid
+    },
+    beforeSend: function() {
+      jQuery(".citylistdatabox select").html('<option>Processing...</option>');
+    },
+    success: function (response) {
+      jQuery(".citylistdatabox select").html(response); 
+    }
+  });
+}
+function getcitiOtherdata(identifier) {
+  if (jQuery(identifier).val() == 'others') {
+    jQuery('.company_location_otherBox').show();
+    jQuery('.company_location_otherBox input').addClass('required');
+  } else {
+    jQuery('.company_location_otherBox').hide();
+    //jQuery('.company_location_otherBox input').removeClass('required');
+  }
+} 
+function getreferralOtherdata(identifier) {
+  if (jQuery(identifier).val() == 'Other') {
+    jQuery('.referral_otherBox').show();
+    jQuery('.referral_otherBox input').addClass('required');
+  } else {
+    jQuery('.referral_otherBox').hide();
+  }
+}
+function getlegalentityOtherdata(identifier) {
+  if (jQuery(identifier).val() == 'Other') {
+    jQuery('.legal_entity_otherBox').show();
+    jQuery('.legal_entity_otherBox input').addClass('required');
+  } else {
+    jQuery('.legal_entity_otherBox').hide();
+  }
+} 

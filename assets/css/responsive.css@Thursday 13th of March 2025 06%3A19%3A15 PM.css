@@ -1,0 +1,2830 @@
+@media only screen and (min-width: 320px) and (max-width: 767px) {
+    #startup_form {
+        margin: 30px auto !important;
+        padding: 30px 10px !important;
+        width: 100%;
+        float: left;
+    }
+    .main-banner.slideshow-banner.startup {
+        float: left;
+        width: 100%;
+        padding-top: 0;
+    }
+    .startup .d-table {
+        display: block !important;
+    }
+    .startup .cont-bx {
+        width: 100%  !important;
+        /* padding: 0%  !important; */
+        margin-top: 10px  !important;
+    }
+    .whyus {
+        float: none;
+        width: 100%;
+    }
+    .card {
+        width: 100%;
+        padding: 30px;
+    
+    }
+    .card h2, .card p {
+        text-align: center !important;
+    }
+    .im1 .circle img,    .im2 .circle img,    .im3 .circle img,    .im4 .circle img {
+        border-radius: 5px;
+        margin-bottom: 20px;
+    }
+    .circle img {
+        width: 100%;
+    }
+    .pitch {
+        float: left;
+    }
+    .descp {
+        width: 100%;
+    }
+    .main-banner-content .form .process ul li {
+        width: 100% !important;
+        text-align: left;
+    }
+    .form.cont-bx ul li {
+        text-align: left;
+    }
+    .main-banner-content .form .process ul li p {
+        text-align: left !important;}
+    .form.cont-bx ul {
+        margin-bottom: 10px;
+    }
+    #startup_form {
+        margin: 30px auto !important;
+        padding: 30px 10px !important ;
+    }
+        .button-bb a span,
+        .cont-bx1 {
+            float: revert;
+            width: 100%;
+        }
+        /* .about-area,
+        .partner-area {
+            overflow: visible;
+        } */
+        iframe {
+            width: 100%;
+        }
+        .about-content span,
+        .section-title span,
+        .single-speakers .speakers-content span,
+        .subscribe-area .subscribe-inner span,
+        h6,
+        ul.bronzee li h6,
+        ul.silver li h6 {
+            font-size: 12px;
+        }
+        .button-bb a {
+            text-transform: uppercase;
+            display: inline-block;
+            padding: 10px 0;
+            margin: 0;
+            width: 100%;
+            text-align: center;
+        }
+       
+        .single-footer-widget iframe {
+            width: 100%;
+            height: 250px;
+        }
+        .schedule-area.bg-image {
+            background-image: none;
+            float: left;
+        }
+        .Event-box,
+        .container {
+            max-width: 100% !important;
+        }
+        .button-bb a span {
+            margin-top: 5px;
+            text-align: center;
+            display: block;
+        }
+        ul.silver.margin-t li h6 {
+            margin-top: 10px !important;
+        }
+        .menu-bottom ul li a {
+            color: #fff;
+            padding: 5px 10px;
+            font-size: 13px;
+            font-weight: 700;
+        }
+        .main-banner1 {
+            height: 150px;
+            width: 100%;
+            display: table;
+            text-align: center;
+        }
+        #contactForm label,
+        .about-area-three .about-content ul li,
+        .about-content h6,
+        .comments-area ol li .comment-body .reply a,
+        .comments-area ul li .comment-body .reply a,
+        .funFact p,
+        .page-title-area ul li,
+        .section-title h4,
+        .sidebar .widget.widget_archive ul li a,
+        .sidebar .widget.widget_categories ul li a,
+        .sidebar .widget.widget_recent_entries ul li h5,
+        .subscribe-area .subscribe-inner button {
+            font-size: 14px;
+        }
+        .single-speakers {
+            width: 100%;
+            margin: 0 auto;
+            height: auto;
+        }
+        .bottom-sc,
+        .partner-area .section-title,
+        .section-title.pt h2 {
+            text-align: left !important;
+        }
+        .cont-bx {
+            width: 100%;
+            margin: 0;
+            padding: 0 10px;
+            height: auto;
+        }
+        .main-banner-content h1 span {
+            font-size: 28px;
+        }
+        .cont-bx h6 {
+            font-size: 19px;
+            padding: 5px 0;
+            text-align: center;
+        }
+        .cont-bx h6:before {
+            width: 10px;
+            height: 10px;
+            left: 0;
+            bottom: -4px;
+        }
+        .cont-bx .button-box {
+            bottom: 25px;
+            left: -2px;
+            width: 225px;
+            margin: auto;
+            position: relative;
+        }
+        .ribbon-2:after {
+            height: 0;
+            width: 0;
+            border-top: 20px solid transparent;
+            border-bottom: 21px solid transparent;
+            border-left: 15px solid #000;
+            right: -15px;
+            top: 0;
+        }
+        .others-option a.btn.btn-primary {
+            padding: 8px 12px;
+            font-size: 12px;
+            margin: 0 auto;
+            text-align: center;
+        }
+        .color .top-table2 td a i,
+        .m-none,
+        .main-banner-content::before,
+        .others-option a.mean-expand,
+        .section-title .btn,
+        .shape1,
+        .shape2,
+        .shape3,
+        .shape4,
+        .single-blog-card .blog-post-content .read-more-btn,
+        .single-blog-card .blog-post-content p,
+        .single-box::before,
+        .tabs li::before {
+            display: none;
+        }
+        .media_list {
+            width: 290px !important;
+        }
+        .others-option ul {
+            padding: 0 13px;
+            text-align: center;
+        }
+        .main-banner-content h1 p {
+            font-size: 15px;
+            line-height: 22px;
+            text-align: left !important;
+        }
+        .partner-area, .schedule-slides-item .single-schedule {
+          
+            padding: initial;
+            float: left;
+            width: 100%;
+        }
+        .others-option li {
+            display: contents;
+            margin-right: 2px;
+        }
+        .others-option ul li {
+            display: contents;
+        }
+        .logo .others-option {
+            float: RIGHT;
+            margin: 35px 2px 0 0px;
+            display: none !important;
+        }
+        .logo .others-option.rgstr_optn {
+            display: block !important;
+        }
+        .fixed,
+        .main-banner-content h1 br,
+        .schedule-slides-item .single-schedule .schedule-content,
+        .single-box .d-table-cell,
+        .single-schedule-item .schedule-item-wrapper .schedule-content,
+        .tab_content .tabs_item .accordion .accordion-item .accordion-title {
+            display: block;
+        }
+        .contact-info {
+            float: none !important;
+        }
+        .elkevent-mobile-nav .logo {
+            width: 95%;
+            height:100%;
+        }
+        #sponsors ul.exibitor.bevrage li {
+            width: 53% !important;
+        }
+        .about-area.bg-image {
+            padding: 10px 0 !important;
+        }
+        ul.eco li {
+            margin-bottom: 20px;
+            width: 54% !important;
+        }
+        .fixed {
+            position: fixed;
+            z-index: 1050;
+            right: 0;
+            top: 77%;
+            width: 262px;
+        }
+        .goldspronsor span.host_one {
+            max-width: 83% !important;
+        }
+        
+        .Sponsorships,
+        .copyright-area,
+        .fixed a {
+            margin-top: 20px;
+        }
+        .silverspronsor span.host_one {
+            max-width: 75% !important;
+        }
+        .fixed a {
+            float: right;
+            text-align: right;
+            z-index: 1050;
+            position: relative;
+            padding: 8px 12px;
+            font-weight: 400;
+            margin-right: 0 !important;
+        }
+        .fixed a:last-child {
+            margin: 20px 0 0 !important;
+            background: #000 !important;
+        }
+        .page-title-area ul {
+            margin-bottom: 10px !important;
+            right: 0;
+        }
+        ul.bronzee.margin-t {
+            text-align: center !important;
+        }
+        h3.lax.bkspace {
+            text-align: center;
+        }
+        .Sponsorships,
+        .logo-in img {
+            margin-bottom: 10px;
+        }
+        .blog-slides.owl-theme .owl-nav.disabled + .owl-dots {
+            margin-top: 5px;
+        }
+        .margin-t {
+            margin-top: 0 !important;
+        }
+        .our_partners .lanyard li {
+            width: 65% !important;
+        }
+        ul.bronzee.video li {
+            width: 48% !important;
+        }
+        .color .top-table2 td {
+            padding: 10px;
+            font-size: 12px;
+        }
+        .border_right {
+            border-right: none;
+        }
+        .contact-box h4,
+        .main-banner-content h2,
+        .sidebar .widget .widget-title,
+        ul.goldi li .discp {
+            font-size: 17px;
+        }
+        .mean-container .mean-bar {
+            background: #fffffff2;
+            height: 70px;
+            position: inherit;
+            top: 0;
+        }
+        .mean-container a.meanmenu-reveal {
+            color: #ff4e70;
+            padding: 0 15px 0 0;
+        }
+        .mean-container .mean-nav ul li a {
+            padding: 10px 5%;
+            color: #000;
+            border-top: 1px solid #ececec;
+        }
+        .mean-container a.meanmenu-reveal span {
+            background: #ff2d55;
+            margin-top: 3px;
+        }
+        #contactForm,
+        .about-area-three .about-image .about-img1,
+        .contact-form,
+        .inner_wrap,
+        .pt {
+            margin-top: 0;
+        }
+        .co_host > li,
+        .countdown-area .event-countdown {
+            margin: 0;
+        }
+        ul.goldi li {
+            width: 57% !important;
+        }
+        ul.silver li .discp {
+            font-size: 16px;
+        }
+        .blog-details .blockquote p,
+        .blog-details blockquote p,
+        ul.bronzee li .discp {
+            font-size: 15px;
+        }
+        .linespk li {
+            width: 80% !important;
+        }
+        ul.suporting li .discp {
+            font-size: 13px !important;
+            min-height: 40px;
+        }
+        ul.gift li {
+            width: 82% !important;
+        }
+        ul.gift.print li {
+            width: 70% !important;
+        }
+        .banner-form form label,
+        .blog-details .blog-meta ul li,
+        .btn,
+        .comments-area ol li .comment-body .comment-meta .comment-metadata a,
+        .comments-area ul li .comment-body .comment-meta .comment-metadata a,
+        .copyright-area ul li a,
+        .cta-area span,
+        .elkevent-single-speakers .speakers-content span,
+        .login-area .login-form form label,
+        .schedule-slides-item .single-schedule .schedule-date span,
+        .signup-area .signup-form form label,
+        .single-blog-post .blog-post-content .date,
+        .single-footer-widget a,
+        .single-footer-widget span,
+        .single-schedule-item .schedule-date span,
+        .single-speakers-box .speakers-content span,
+        .tabs li a span,
+        p,
+        ul.gift li .discp {
+            font-size: 13px;
+        }
+        #sponsors ul.exibitor li {
+            width: 64% !important;
+        }
+        .schedule-slides-item .single-schedule .schedule-content .author,
+        .single-schedule-item .schedule-item-wrapper .schedule-content .author,
+        li.platinum_logo span.host_one {
+            margin-right: 0;
+            margin-bottom: 20px;
+        }
+        .top-table2 th {
+            font-size: 20px !important;
+        }
+        .single-speakers img {
+            width: auto;
+            height: 160px !important;
+        }
+        img.speakers_pictures {
+            height: auto !important;
+        }
+        ul.ecoo {
+            display: block !important;
+        }
+        .single-speakers figcaption {
+            height: 160px !important;
+            width: 160px !important;
+            margin: auto !important;
+            left: 0;
+            right: 0;
+        }
+        button.view_details {
+            margin: 30px auto !important;
+        }
+        .ptb-120 {
+            padding-top: 30px !important;
+            padding-bottom: 40px !important;
+        }
+        .section-title {
+            margin-bottom: 20px;
+        }
+        .speakers-area .section-title {
+            text-align: left;
+        }
+       
+        .ptb-120 .section-title h2 {
+            font-size: 18px;
+            text-align: left !important;
+            margin-top: 10px !important;
+        }
+        .copyright-area p,
+        .speakers-area h2,
+        .subscribe-inner p {
+            text-align: center !important;
+        }
+        .section-title h2 {
+            font-size: 18px;
+            float: left;
+            width: 100%;
+        }
+        .section-title .bg-title {
+            font-size: 50px;
+            left: auto;
+            top: 25px;
+            right: 0;
+            line-height: 30px;
+            -webkit-transform: unset !important;
+            transform: unset !important;
+        }
+        .cta-area,
+        .cybrain_logo,
+        .login-area .login-form p,
+        .post-tag-media {
+            text-align: center;
+        }
+        p {
+            text-align: justify !important;
+        }
+        .single-box .content p {
+            text-align: center !important;
+            height: auto;
+        }
+        .btn {
+            padding: 8px 15px;
+        }
+        .preloader .loader {
+            margin: -80px 0 0 -55px;
+        }
+        .main-banner {
+            height: 100%;
+            padding-top: 80px;
+            padding-bottom: 10px;
+        }
+        .main-banner-content h1 {
+            font-size: 18px;
+            line-height: 30px;
+            margin: 20px 0 10px;
+            text-align: center;
+        }
+        .main-banner-content p {
+            font-size: 25px;
+            text-align: center !important;
+            margin-top: 15px;
+            line-height: normal;
+        }
+        .main-banner-content.saksham p {
+            text-align: left !important;
+        }
+        .main-banner-content ul {
+            margin-bottom: 60px;
+        }
+        .main-banner-content ul li {
+            font-size: 27px;
+            text-align: center;
+            padding: 0;
+            text-shadow: 1px 1px 0 #ffff;
+        }
+        .inner_wrap p strong,
+        .sidebar .widget.widget_tag_cloud .tagcloud a {
+            font-size: 14px !important;
+        }
+        section#about ul {
+            padding: 0 0 0 10px;
+            text-align: justify;
+        }
+        .main-banner-content .button-box .video-btn {
+            font-size: 15px;
+            display: block;
+            margin-left: 0;
+            margin-top: 25px;
+        }
+        .main-banner-content .button-box .video-btn i {
+            width: 35px;
+            height: 35px;
+            line-height: 36px;
+            font-size: 14px;
+            margin-right: 5px;
+        }
+        .main-banner-content.banner-content-center {
+            margin: 0 auto;
+            text-align: center;
+        }
+        .event-countdown {
+            right: 0;
+            left: 0;
+            margin: 30px auto 0 15px;
+            text-align: right;
+        }
+        .event-countdown #timer div {
+            font-size: 30px;
+            margin: 0 20px 0 0;
+            position: relative;
+        }
+        .bar.core_bar {
+            top: 37px !important;
+        }
+        .bar.gc_bar {
+            top: 44px !important;
+        }
+        .section-title .bar {
+           bottom:0 !important;
+           top:40px !important;
+        }
+        .section-title .bar.core_bar {
+            top: 75px !important;
+        }
+        .section-title .bar.imembers_bar {
+            top: 37px !important;
+        }
+        .section-title.sponsors_main {
+            display: inline-block !important;
+        }
+        .section-title .bar.platinum_bar {
+            top: 35px !important;
+        }
+        .section-title .bar.abt_bar {
+            top: 46px !important;
+        }
+        .section-title .bar.Baar {
+            top: 70px !important;
+        }
+        .section-title .bar.previous_bar {
+            top: 40px !important;
+        }
+        .section-title .bar.previous_bar.spekr_bar {
+            top: 40px !important;
+        }
+        .section-title.pt .bar.pillars_bar {
+            top: 33px !important;
+        }
+        .section-title.pt .bar.membershp_bar {
+            top: 33px !important;
+        }
+        .about-area .row {
+            margin-top: 30px;
+        }
+        .photos_tiecon .images-data {
+            padding-top: 20px !important;
+        }
+        .sec-sponsors {
+            padding-top: 10px !important;
+        }
+        .event-countdown #timer div span {
+            font-size: 12px;
+            position: relative;
+            right: 0;
+            top: 0;
+            -webkit-transform: unset;
+            transform: unset;
+            margin-top: -5px;
+            letter-spacing: 0;
+            text-transform: capitalize;
+            text-align: center;
+        }
+        .event-countdown #timer div#hours span,
+        .event-countdown #timer div#minutes span,
+        .event-countdown #timer div#seconds span {
+            right: 0;
+            margin-top: -5px;
+        }
+        .slideshow-banner .event-countdown {
+            margin-left: 25px;
+            margin-top: 10px;
+            margin-bottom: 0;
+            position: inherit;
+        }
+        .slideshow-banner .event-countdown #timer div {
+            font-size: 37px;
+            margin: 0 19px 0 0;
+        }
+        .home-slides.owl-theme .owl-nav [class*="owl-"] {
+            left: 10px;
+            width: 45px;
+            height: 45px;
+            top: auto;
+            line-height: 48px;
+            margin-top: 0;
+            font-size: 25px;
+            bottom: 5px;
+        }
+        .banner-form {
+            padding: 30px 20px;
+            margin-top: 40px;
+        }
+        .banner-form form .form-control {
+            height: 45px;
+        }
+        .banner-with-speaker.main-banner {
+            padding-bottom: 0;
+        }
+        .banner-image {
+            position: relative;
+            top: 0;
+            right: 0;
+            text-align: center;
+            margin-top: 40px;
+        }
+        .about-content h2 {
+            font-size: 23px;
+            margin-bottom: 20px;
+            margin-top: 20px;
+        }
+        .about-image {
+            margin-top: 40px;
+            display: none;
+        }
+        .about-image .about-img1 {
+            right: 0;
+            top: 0;
+            width: 100%;
+        }
+        .about-image .about-img2 {
+            position: relative;
+            left: 0;
+            bottom: 0;
+            width: 100%;
+            margin-top: 20px;
+        }
+        .about-image .shape-img {
+            top: 27%;
+            left: 0;
+            right: 0;
+            margin: 0 auto;
+        }
+        .about-image .btn {
+            bottom: 0;
+            right: 15px;
+            -webkit-transform: unset !important;
+            transform: unset !important;
+        }
+        .about-area-three .about-content .signature,
+        .about-area-two .about-content .signature,
+        .pricing-plan .pricing-content li:last-child,
+        .pricing-table-box .pricing-content li:last-child,
+        .schedule-slides-item .single-schedule .schedule-content .schedule-info ul li:last-child,
+        .single-box:focus .content p,
+        .single-box:hover .content p,
+        .single-schedule-item .schedule-item-wrapper .schedule-content .schedule-info ul li:last-child,
+        .tab_content .tabs_item .accordion .accordion-item .accordion-title .schedule-info ul li:last-child {
+            margin-bottom: 0;
+        }
+        .about-area-three .about-image {
+            margin-top: 0;
+            margin-bottom: 30px;
+        }
+        .about-area-three .about-image .btn {
+            left: auto;
+            bottom: 30px;
+            right: 15px;
+        }
+        .countdown-area .event-countdown #timer {
+            overflow: hidden;
+            margin: 0 -10px;
+            font-size: 35px;
+            text-align: center;
+        }
+        
+        .countdown-area .event-countdown #timer div {
+            margin: 0;
+            text-align: center;
+            padding: 0 10px;
+        }
+        .why-choose-us {
+            padding-bottom: 30px;
+            padding-left: 10px;
+            padding-right: 10px;
+        }
+        .why-choose-us::before {
+            opacity: 0.8;
+        }
+        .single-box {
+            height: 100%;
+            margin-bottom: 10px;
+            padding-left: 0;
+            padding-right: 0;
+            border-right: none !important;
+            border-left: none !important;
+            border-bottom: 2px solid rgba(255, 255, 255, 0.2) !important;
+        }
+        .single-box .d-table {
+            height: auto;
+            display: block;
+        }
+        .single-box .content {
+            position: relative;
+            margin-top: 20px;
+            padding-left: 0;
+            padding-right: 0;
+        }
+        .single-box .content .btn {
+            opacity: 1;
+            visibility: visible;
+            margin-top: 10px;
+        }
+        .single-box .content .icon {
+            font-size: 35px;
+        }
+        .comments-area .comment-reply-title,
+        .comments-area .comments-title,
+        .elkevent-single-speakers .speakers-content h3,
+        .leave-your-message h3,
+        .pricing-plan h3,
+        .pricing-table-box .title,
+        .single-box .content h3,
+        .single-speakers-box .speakers-content h3 {
+            font-size: 19px;
+        }
+        .single-box:focus .content,
+        .single-box:hover .content {
+            bottom: 0;
+        }
+        .why-choose-content {
+            padding: 35px 25px;
+        }
+        .single-footer-widget h3,
+        .why-choose-content h3 {
+            font-size: 19px;
+            margin-bottom: 15px;
+        }
+        .why-choose-content span {
+            margin: 0 auto;
+        }
+        .single-speakers .speakers-content {
+            bottom: 20px;
+            left: 0;
+            height: auto;
+            margin-top: 20px;
+        }
+        .single-speakers .speakers-content h3 {
+            font-size: 16px;
+            margin-bottom: 0;
+        }
+        .single-speakers:focus .speakers-content,
+        .single-speakers:hover .speakers-content {
+            bottom: 20px;
+        }
+        .single-speakers ul {
+            padding: 10px 15px 5px;
+        }
+        .single-speakers ul li a {
+            width: 35px;
+            height: 35px;
+            line-height: 35px;
+            font-size: 14px;
+        }
+        .elkevent-single-speakers ul li a {
+            width: 35px;
+            height: 35px;
+            line-height: 35px;
+            font-size: 13px;
+        }
+        .blog-section,
+        .pricing-area,
+        .schedule-style-three,
+        .speakers-area-two {
+            padding-bottom: 30px;
+        }
+        .tabs {
+            display: block;
+            margin-bottom: 0;
+        }
+        .funFact,
+        .single-funfact {
+            margin-bottom: 35px;
+        }
+        .tabs li a {
+            font-size: 18px;
+        }
+        .tab_content {
+            padding: 10px;
+        }
+        .tab_content .tabs_item .accordion .accordion-item {
+            padding: 15px;
+        }
+        .tab_content .tabs_item .accordion .accordion-item .accordion-title .author {
+            margin-right: 0;
+            margin-bottom: 20px;
+            position: relative;
+            top: 0;
+            -webkit-transform: unset;
+            transform: unset;
+        }
+        .schedule-slides-item .single-schedule .schedule-content .schedule-info h3,
+        .single-schedule-item .schedule-item-wrapper .schedule-content .schedule-info h3,
+        .tab_content .tabs_item .accordion .accordion-item .accordion-title .schedule-info h3 {
+            font-size: 19px;
+            margin-bottom: 12px;
+            line-height: 28px;
+        }
+        .schedule-slides-item .single-schedule .schedule-content .schedule-info ul li,
+        .single-schedule-item .schedule-item-wrapper .schedule-content .schedule-info ul li,
+        .tab_content .tabs_item .accordion .accordion-item .accordion-title .schedule-info ul li {
+            display: block;
+            font-size: 12px;
+            margin-right: 0;
+            margin-bottom: 10px;
+        }
+        .tab_content .tabs_item .accordion .accordion-item .accordion-content p {
+            font-size: 14px;
+            margin-bottom: 20px;
+        }
+        .tab_content .tabs_item .accordion .accordion-item .accordion-content .row .text-right {
+            text-align: left !important;
+            margin-top: 15px;
+        }
+        .schedule-slides-item .single-schedule .schedule-date,
+        .single-schedule-item .schedule-date {
+            font-size: 18px;
+            padding: 25px;
+            position: relative;
+            width: auto;
+        }
+        .funFact .icon,
+        .pricing-table-box .price-value,
+        .single-funfact .icon {
+            font-size: 30px;
+        }
+        .btn-box {
+            margin-top: 35px;
+        }
+        
+        .btn-box .btn {
+            margin: 5px 3px 0;
+        }
+        .schedule-slides.owl-theme .owl-nav {
+            margin-top: 30px;
+        }
+        .schedule-slides.owl-theme .owl-nav [class*="owl-"] {
+            font-size: 25px;
+            position: relative;
+            left: 0;
+            top: 0;
+            right: 0 !important;
+        }
+        .schedule-style-four .col-lg-8 {
+            -webkit-box-ordinal-group: 3;
+            -ms-flex-order: 2;
+            order: 2;
+        }
+        .schedule-style-four .col-lg-4 {
+            -webkit-box-ordinal-group: 2;
+            -ms-flex-order: 1;
+            order: 1;
+        }
+        .funfacts-area {
+            padding-bottom: 25px;
+            float: left;
+            width: 100%;
+        }
+        .funFact h3,
+        .single-funfact h3 {
+            font-size: 35px;
+            margin-top: 8px;
+        }
+        .single-funfact p {
+            font-size: 14px;
+            text-align: center !important;
+        }
+        .funFact {
+            text-align: center;
+            padding-left: 0;
+        }
+        .contact-box,
+        .pricing-plan,
+        .pricing-table-box,
+        .single-footer-widget {
+            margin-bottom: 30px;
+        }
+        .funFact .icon {
+            position: relative;
+        }
+        .cta-area h3 {
+            font-size: 23px;
+        }
+        .cta-area .text-right {
+            text-align: center !important;
+            margin-top: 25px;
+        }
+        .pricing-table-box .price-value sup {
+            font-size: 20px;
+            top: -13px;
+        }
+        .pricing-plan .pricing-content li,
+        .pricing-table-box .pricing-content li {
+            margin-bottom: 10px;
+            padding-bottom: 10px;
+            font-size: 13px;
+        }
+        .pricing-plan h3 span {
+            height: 130px;
+            width: 130px;
+            line-height: 135px;
+            font-size: 25px;
+        }
+        .partner-area .partner-title {
+            margin-bottom: 10px;
+            -webkit-transform: unset !important;
+            transform: unset !important;
+            margin-top: 20px;
+        }
+        .partner-area .partner-title h3,
+        .signup-area .signup-form h3 {
+            font-size: 20px;
+        }
+        .single-blog-post .blog-post-content,
+        .subscribe-area .subscribe-inner {
+            padding: 20px;
+        }
+        .single-blog-post .blog-post-content h3 {
+            line-height: 28px;
+            font-size: 18px;
+        }
+        .single-blog-card .post-tag,
+        .single-blog-card:focus .post-tag,
+        .single-blog-card:hover .post-tag {
+            top: 15px;
+        }
+        .single-blog-card .post-tag a {
+            padding: 8px 20px;
+            font-size: 13px;
+        }
+        .single-blog-card .blog-post-content {
+            padding: 0 20px 20px;
+        }
+        .single-blog-card .blog-post-content h3 {
+            font-size: 18px;
+            margin-bottom: 0;
+        }
+        .buy-tickets-area.ptb-120 {
+            padding-bottom: 140px;
+        }
+        .subscribe-area::before {
+            height: 74%;
+        }
+        .subscribe-area .subscribe-inner h2 {
+            font-size: 23px;
+            line-height: 34px;
+        }
+        .subscribe-area .subscribe-inner .newsletter-form .btn {
+            position: relative;
+            height: 54px;
+            display: block;
+            width: 100%;
+            margin-top: 10px;
+        }
+        .page-title-area {
+            padding-top: 20px;
+            padding-bottom: 40px;
+        }
+        .page-title-area h1 {
+            font-size: 12px;
+            line-height: 22px;
+            margin: 10px !important;
+        }
+        .page-title-area span {
+            margin-top: 7px;
+            font-size: 14px;
+        }
+        .login-area,
+        .signup-area {
+            height: 100%;
+            padding: 120px 15px;
+        }
+        .login-area .login-form h3 {
+            padding: 30px 10px 25px;
+            font-size: 20px;
+        }
+        .login-area .login-form p a.pull-right {
+            float: unset;
+            margin-top: 5px;
+        }
+        .login-area .login-form p a.pull-left {
+            float: unset;
+        }
+        .login-area .login-form form,
+        .signup-area .signup-form form {
+            padding: 25px 20px;
+        }
+        .coming-soon {
+            height: 100%;
+            padding-top: 100px;
+            padding-bottom: 100px;
+        }
+        .coming-soon .coming-soon-content h1 {
+            font-size: 30px;
+            line-height: 45px;
+        }
+        .coming-soon .coming-soon-content #timer div {
+            font-size: 40px;
+            width: 120px;
+            height: 120px;
+            padding-top: 27px;
+            line-height: 39px;
+            margin: 0 5px 15px;
+        }
+        .coming-soon .coming-soon-content form button {
+            position: relative;
+            right: 0;
+            top: 0;
+            width: 100%;
+            border-radius: 30px;
+            margin-top: 10px;
+            padding: 13px 0;
+        }
+        #contactForm,
+        .comments-area ol li .comment-body,
+        .comments-area ul li .comment-body {
+            padding: 20px 15px;
+        }
+        .error-area h1 {
+            font-size: 110px;
+            line-height: 85px;
+        }
+        .error-area h3 {
+            margin: 30px 0 15px;
+            font-size: 19px;
+        }
+        .faq-accordion,
+        .faq-contact {
+            -webkit-box-shadow: unset;
+            box-shadow: unset;
+            padding: 0;
+        }
+        .faq-accordion .accordion .accordion-title {
+            padding: 10px 10px 10px 50px;
+            font-size: 14px;
+        }
+        .faq-contact h3 {
+            font-size: 19px;
+            margin-bottom: 25px;
+        }
+        .sidebar {
+            margin-top: 50px;
+        }
+        .blog-details h3 {
+            font-size: 19px;
+            line-height: 30px;
+        }
+        .blog-details .blockquote,
+        .blog-details blockquote {
+            padding: 88px 20px 20px;
+            border-width: 3px;
+        }
+        .blog-details .blockquote::before,
+        .blog-details blockquote::before {
+            left: 20px;
+            top: 20%;
+        }
+        .post-tag-media ul.social-share {
+            text-align: center;
+            margin-top: 15px;
+        }
+        .comments-area ol li .comment-body .comment-meta .comment-author .fn,
+        .comments-area ul li .comment-body .comment-meta .comment-author .fn {
+            font-size: 15px;
+            margin-bottom: 0;
+        }
+        .comments-area ol li .comment-body .reply,
+        .comments-area ul li .comment-body .reply {
+            position: relative;
+            right: 0;
+            top: 0;
+            margin-top: 20px;
+        }
+        .contact-box {
+            padding-left: 80px;
+        }
+        .contact-box .icon {
+            width: 45px;
+            height: 45px;
+            line-height: 45px;
+            font-size: 18px;
+        }
+        .footer-area {
+            padding-top: 20px;
+        }
+        .single-footer-widget .social-links li a {
+            width: 35px;
+            height: 35px;
+            line-height: 35px;
+        }
+        .copyright-area ul {
+            margin: 10px 0;
+            text-align: center;
+        }
+        .copyright-area ul li {
+            margin: 3px 10px;
+        }
+        
+        .bar.glimpses_bar {
+            top: 40px !important;
+        }
+        .bar.annualp_bar {
+            top: 85px !important;
+            left: 0 !important;
+            right: 0 !important;
+            margin: 0 !important;
+        }
+      
+        .bar.expo_bar {
+            top: 48px !important;
+        }
+        .bar.bar_combo,
+        .bar.combo_bar {
+            top: 60px !important;
+        }
+        ul.silver.margin-t {
+            display: flex!important;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-items: start;
+        }
+        .date {
+            left: 0px !important;
+        }
+        .demo_news1 .post-entry-contents {
+            margin-bottom: 20px;
+        }
+        .news_section_btn {
+            margin-top: 10px;
+        }    
+       
+        ul.bronzee li {
+            width: 30% !important;
+        }
+        .bar.previous_bar.spekr_bar.top_speaker { top: 85px !important; }
+        .main-banner-content h1 span::after {
+            width: 18px;
+            height: 18px;
+            left: 2px;
+            top: 6px;
+        }
+        .main-banner-content h1 span::before {
+            width: 22px;
+            height: 22px;
+            left: 0px;
+            top: 4px;
+        }
+        .main-banner-content h1 span {
+            font-size: 12px !important;
+            width: 21px;
+            margin-left: 1px;
+            margin-right: 1px;
+        }
+        #startup_form1 {
+            width: 100% !important;
+            float:left !important;
+        }
+        div#startup_form1 .one_half h3 {
+            font-size: 20px;
+        }
+        .single-box .content::before{
+            display: none!important;
+        }
+        section.about-area .detailed_info .bar {
+            display: none !important;
+        }
+        section.mou_can {
+            overflow: visible !important;
+        }
+        section#speaker .bar.core_bar {
+            display: none !important;
+        }
+        section#sponsors .bar.platinum_bar {
+            display: none;
+        }
+        .logo .others-option.rgstr_optn ul {
+            padding-right: 0px !important;
+        }
+        .main-banner.slideshow-banner.startup .main-banner-content.for_startup {
+            display: block !important;
+        }
+        .startup_img {
+            width: 100% !important;
+            max-width: 100% !important;
+        }
+        .sak_sponsr h2 {
+            text-align: center !important;
+        }
+        .sak_sponsr p {
+            text-align: center !important;
+        }
+    }
+    @media only screen and (min-width: 320px) and (max-width: 500px) {
+    .startup .d-table-cell {
+        max-width: 100%;
+        float: left;
+        background-image: url(../img/slideshow-bg_1.jpg);
+    }
+      
+    
+        .our_partners .oneline,
+        ul.platinump li {
+            width: 100% !important;
+        }
+      
+        li.platinum_logo span.host_one {
+            width: 80% !important;
+            max-width: inherit;
+        }
+        .oneline ul.suporting li {
+            width: 78% !important;
+        }
+        ul.bronzee.tecn li {
+            width: 69% !important;
+        }
+      
+        .menu-bottom ul li a {
+            color: #fff;
+            padding: 5px 10px;
+            font-size: 13px;
+            font-weight: 700;
+        }
+        .page-title-area .main-banner-content .button-box a:last-child {
+            margin: 10px;
+            background: #000 !important;
+        }
+        .page-title-area .main-banner-content .button-box a {
+            margin-right: 0;
+            margin-top: 10px;
+        }
+        .main-banner1 {
+            height: 200px;
+        }
+        .bar.bar_combo,
+        .bar.combo_bar {
+            top: 75px !important;
+        }
+       
+        .detailed_info h2,
+        .speaker-info span {
+            font-size: 13px !important;
+        }
+        .inner_wrap p strong {
+            font-size: 12px !important;
+            line-height: 20px;
+        }
+        .section-title h2 {
+            font-size: 16px ;
+            float: left;
+            width: 100%;
+        }
+        .bar.expo_bar {
+            top: 60px !important;
+        }
+        .speaker-detail p {
+            margin-top: 10px;
+        }
+        .speaker-info h4 {
+            padding: 5px 0;
+        }
+        .speaker-info a {
+            padding-top: 5px;
+        }
+        .new_spkr {
+            text-align: center;
+            padding-bottom: 10px !important;
+        }
+        ul.platinump li {
+            width: 90% !important;
+            margin-bottom: 10px;
+        }
+        ul.gold.platinump li {
+            width: 84% !important;
+            margin-bottom: 20px
+        }
+        ul.bronzee.bron li {
+            width: 78% !important;
+            margin-bottom: 10px !important;
+        }
+        ul.goldspnsor li {
+            width: 73%;
+            margin-bottom: 10px !important;
+        }
+        ul.silver li {
+            width: 67% !important;
+            margin-bottom: 10px !important;
+        }
+        ul.bronzee li {
+            width: 61% !important;
+            margin-bottom: 10px !important;
+        }
+        ul.suporting li {
+            width: 54% !important;
+            margin-bottom: 10px !important;
+        }
+        .orignal_exibitor li {
+            width: 48% !important;
+            margin: 0 5px 10px !important;
+        }
+        .orignal_exibitor li {
+            width: 42% !important;
+            margin-bottom: 10px !important;
+        }
+        ul.ecoo li {
+            width: 36% !important;
+            margin-bottom: 10px;
+        }
+    }
+    @media only screen and (min-width: 320px) and (max-width: 574px) {
+        .new_spkr {
+            text-align: center;
+            padding-bottom: 10px !important;
+        }
+        .bar.previous_bar.spkr_details_bar {
+            top: 85px !important;
+            left: 0 !important;
+            right: 0 !important;
+        }
+        .speaker-img {
+            margin-top: 20px !important;
+        }
+        .members-3_buttons a.btn.btn-primary {
+            width: 200px !important;
+            margin-bottom: 10px !important;
+        }
+        .startup_form.row {
+            justify-content: center !important;
+            align-items: center !important;
+            gap: 20px !important;
+        }
+        .join_modals {
+            width: 100% !important;
+            max-width: 80% !important;
+            margin: 0 auto;
+        }
+        .join_modals .modal-content .modal-body {
+            padding: 23px;
+        }
+        .my-tiecon-button {
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+        
+    }
+    @media only screen and (min-width: 575px) and (max-width: 610px) {
+        .join_modals {
+            width: 85% !important;
+            max-width: 85% !important;
+            margin: 0 auto;
+        }
+        .join_modals .modal-content .modal-body {
+            padding: 23px;
+        }
+    }
+
+    @media only screen and (min-width: 575px) and (max-width: 767px) {
+        .bar.previous_bar.spkr_details_bar {
+            top: 95px !important;
+        }
+        .speaker-img {
+            margin-top: 20px !important;
+        }
+        .startup_form.row a.btn.btn-primary.lax {
+            margin-left: 15px !important;
+        }
+        .join_modals {
+            width: 75% !important;
+            max-width: 75% !important;
+            margin: 0 auto;
+        }
+    }
+    @media only screen and (min-width: 501px) and (max-width: 767px) {
+        ul.gold li,
+        ul.suporting li {
+            margin-bottom: 10px;
+        }
+        
+        ul.bronzee.tecn li,
+        ul.suporting li {
+            width: 30% !important;
+        }
+        .our_partners .oneline,
+        ul.gold li {
+            width: 48% !important;
+        }
+        .Bronze span.host_one {
+            width: 32% !important;
+            max-width: inherit !important;
+        }
+        ul.gold li {
+            float: revert !important;
+        } 
+        .oneline ul.suporting li {
+            width: 70% !important;
+        }
+        ul.platinump li {
+            width: 60% !important;
+            margin-bottom: 10px;
+        }
+        ul.gold.platinump li {
+            width: 55% !important;
+            margin-bottom: 20px
+        }
+        ul.bronzee.bron li {
+            width: 50% !important;
+            margin-bottom: 10px !important;
+        }
+      
+        ul.goldspnsor li {
+            width: 45% !important;
+            margin-bottom: 10px !important;
+        }
+        ul.silver li {
+            width: 40% !important;
+            margin-bottom: 10px !important;
+        }
+       
+        ul.suporting li {
+            width: 35% !important;
+        margin-bottom: 10px !important;
+        }    
+        .orignal_exibitor li {
+            width: 30% !important;
+            margin-bottom: 10px !important;
+        }
+        ul.ecoo li {
+            width: 25% !important;
+            margin-bottom: 10px;
+        }
+    }
+    @media only screen and (min-width: 768px) and (max-width: 991px) {
+        .startup .cont-bx {
+            width: 100%!important;
+            padding: 2%!important;
+            margin-top: 10px!important;
+        }
+    .whyus {
+        float: none;
+        width: 100%;
+    }
+    .pitch {
+        float: left;
+    }
+    .descp {
+        width: 100%;
+    }
+    .main-banner-content .form .process ul li {
+        width: 100% !important;
+        text-align: left;
+    }
+    .main-banner-content.for_startup.saksham .form .process ul li {
+        width: 47% !important;
+    }
+    .form.cont-bx ul li {
+        text-align: left;
+    }
+    .main-banner-content .form .process ul li p {
+        text-align: left !important;}
+    .form.cont-bx ul {
+        margin-bottom: 10px;
+    }
+        .about-area,
+        .partner-area {
+            overflow: visible;
+        }
+        .cont-bx,
+        .single-blog-post .blog-image .single-speakers,
+        .single-box .d-table {
+            height: auto;
+        }
+        .banner-image,
+        .copyright-area,
+        .funFact,
+        .main-banner1 {
+            text-align: center;
+        }
+        .cybrain_logo,
+        .fixed a {
+            text-align: right;
+        }
+        .about-area-three .about-image .about-img1,
+        iframe {
+            width: 100%;
+        }
+        .rgstr_optn {
+            display: none !important;
+        }
+        .funfacts-area {
+            width: 100%;
+            float: left;
+        }
+        .schedule-area {
+            float: left;
+        }
+        .oneline ul.suporting li {
+            width: 98%;
+            margin: 0;
+        }
+        .our_partners .oneline {
+            width: 25% !important;
+            padding: 0 5px;
+        }
+        .cont-bx .button-box img {
+            width: 75%;
+        }
+        .cont-bx {
+            width: 55%;
+            margin: 4% 0 0;
+            padding: 2%;
+        }
+        .cont-bx1 {
+            width: 35%;
+            margin-top: 40px;
+            margin-bottom: -40px;
+        }
+        .event_sponsors .partner-title,
+        .section-title,
+        ul.eco li {
+            margin-bottom: 20px;
+        }
+        .main-banner-content h1 span {
+            font-size: 28px;
+        }
+        .partner-area {
+            padding: initial;
+            float: left;
+            width: 100%;
+        }
+        .cont-bx h6 {
+            font-size: 19px;
+            padding: 5px 9px;
+        }
+        .cont-bx .button-box {
+            bottom: -465px;
+            left: 16px;
+        }
+        .ribbon-2:after {
+            height: 0;
+            width: 0;
+            border-top: 23px solid transparent;
+            border-bottom: 23px solid transparent;
+            border-left: 15px solid #000;
+            right: -15px;
+            top: 0;
+        }
+        .about-image .about-img2,
+        .m-none,
+        .main-banner-content::before,
+        .shape1,
+        .shape2,
+        .shape3,
+        .shape4,
+        .single-blog-card .blog-post-content .read-more-btn,
+        .single-blog-card .blog-post-content p {
+            display: none;
+        }
+        .single-box .content p {
+            height: 25px;
+            font-size: 12px;
+        }
+        .saksham_choose .single-box .content p {
+            height: auto !important;
+        }
+        .contact-form,
+        .pt {
+            margin-top: 20px;
+        }
+        .logo .others-option {
+            float: right;
+            padding-top: 4px;
+        }
+        .logo .others-option {
+            float: RIGHT;
+            margin: 38px 17px 0 0;
+            display: none !important;
+        }
+        .logo .others-option.rgstr_optn {
+            display: block !important;
+        }
+        .elkevent-mobile-nav .logo {
+            width: 98%;
+        }
+        #about {
+            padding: 30px 0;
+        }
+        .subscribe-area .subscribe-inner {
+            padding: 7px;
+        }
+        .single-speakers img {
+            height: 120px !important;
+            padding: 2px;
+        }
+        .single-footer-widget {
+            line-height: 15px;
+        }
+        ul.bronzee.margin-t h6 {
+            font-size: 14px !important;
+        }
+        img.speakers_pictures {
+            height: auto !important;
+            width: auto !important;
+        }
+        .single-speakers figcaption {
+            height: 120px !important;
+        }
+        button.view_details {
+            margin: 7px auto !important;
+        }
+        .main-banner1 {
+            height: 200px;
+            width: 100%;
+            display: table;
+        }
+        .fixed,
+        .single-box .d-table,
+        .single-box .d-table-cell {
+            display: block;
+        }
+        .mean-container .mean-bar {
+            position: relative;
+            background: #ffffffde;
+            height: 70px;
+        }
+        ul.eco li {
+            width: 38% !important;
+        }
+        .subscribe-area,
+        ul.co_host.lanyard {
+            margin: 0 !important;
+        }
+        .about-area-three .about-image,
+        .contact-box,
+        .pricing-plan,
+        .pricing-table-box,
+        .single-box {
+            margin-bottom: 30px;
+        }
+        .goldspronsor span.host_one {
+            width: 55% !important;
+            max-width: 100% !important;
+        }
+        .silverspronsor span.host_one {
+            max-width: 55% !important;
+            width: 55% !important;
+        }
+        .Bronze .platinum_logo span.host_one {
+            width: 26% !important;
+        }
+        .fixed {
+            position: fixed;
+            z-index: 1050;
+            right: 0;
+            top: 77%;
+            width: 262px;
+        }
+        .fixed a {
+            float: right;
+            margin-top: 20px;
+            z-index: 1050;
+            position: relative;
+            padding: 8px 12px;
+            font-weight: 400;
+            margin-right: 0 !important;
+        }
+        .fixed a:last-child {
+            margin: 20px 0 0 !important;
+            background: #000 !important;
+        }
+        .single-blog-post .blog-image .single-speakers .speakers-content {
+            height: 50px;
+        }
+        .partner-area li.platinum_logo span.host_one {
+            width: 29%;
+        }
+        ul.silver li {
+            width: 28%;
+        }
+        ul.bronzee li {
+            width: 17%;
+        }
+        ul.bronzee.video li {
+            width: 78%;
+        }
+        ul.bronzee.tecn li {
+            width: 21% !important;
+        }
+        .oneline-duo.suporting li {
+            width: 43% !important;
+        }    
+       
+        #sponsors ul.exibitor li,
+        .our_partners .lanyard li {
+            width: 75% !important;
+        }
+        .margin-t {
+            margin-top: 10px !important;
+        }
+        .partner-area ul.co_host {
+            margin: 20px 0;
+        }
+        .border_right {
+            border-right: none;
+        }
+        .event_sponsors ul.gold li {
+            width: 100%;
+            margin: 0;
+        }
+        .about-area.bg-image {
+            padding: 20px 0;
+        }
+        .inner-speaker .single-speakers img {
+            height: 150px;
+        }
+        ul.gold li {
+            width: 55%;
+            float: unset;
+        }
+       
+        .our_partners li {
+            width: 35%;
+        }
+        li.platinum_logo span.host_one {
+            float: none;
+            display: INLINE-BLOCK !important;
+            width: 100%;
+            max-width: 36%;
+            display: inline-block !important;
+        }
+        .copyright-area p {
+            text-align: left;
+            font-size: 12px;
+        }
+        .mean-container a.meanmenu-reveal {
+            color: #ff385e;
+        }
+        li.platinum_logo {
+            width: 100%;
+            max-width: 100%;
+        }
+        .main-banner-content h2 {
+            font-size: 27px;
+            text-align: left;
+            float: left;
+            padding: 8px;
+        }
+        .single-speakers .speakers-content {
+            background: 0 0;
+            height: 120px;
+        }
+        .single-speakers {
+            height: 250px;
+        }
+        .single-speakers .speakers-content h3,
+        .subscribe-area .subscribe-inner span {
+            font-size: 12px;
+        }
+        .mean-container a.meanmenu-reveal span {
+            background: #ff2d55;
+        }
+        .single-speakers .speakers-content span {
+            font-size: 10px;
+            line-height: 14px;
+        }
+        .spkrs_hd h2,
+        h2.core_tm_hd {
+            margin-top: 40px !important;
+        }
+        .ptb-120 {
+            padding-top: 40px;
+            padding-bottom: 40px;
+            margin-top: 0;
+        }
+        .Sponsorships {
+            margin-top: 20px;
+            float: left;
+        }
+        .banner-form,
+        .banner-image {
+            margin-top: 40px;
+        }
+        .about-content span,
+        .schedule-slides-item .single-schedule .schedule-date span,
+        .section-title span,
+        .single-box .content h3,
+        .single-schedule-item .schedule-item-wrapper .schedule-content .schedule-info ul li,
+        .tabs li a span {
+            font-size: 14px;
+        }
+        .section-title h2 {
+            font-size: 18px;
+        }
+        .section-title .bg-title {
+            font-size: 50px;
+            line-height: 100px;
+            right: 20%;
+            margin-top: -10px;
+            -webkit-transform: unset !important;
+            transform: unset !important;
+        }
+        .about-image .about-img1,
+        .banner-image {
+            right: 0;
+            top: 0;
+            position: relative;
+        }
+        .section-title .btn {
+            margin-top: -25px;
+        }
+        .elkevent-mobile-nav.mean-container a.meanmenu-reveal {
+            padding: 0 40px 0 0;
+        }
+        .main-banner {
+            height: 100%;
+            padding-top: 70px;
+            padding-bottom: 70px;
+        }
+        .main-banner-content p {
+            font-size: 34px;
+            line-height: 60px;
+        }
+        .main-banner-content h1 {
+            font-size: 28px;
+            margin: 20px 0 10px;
+        }
+        .cta-area h3,
+        .main-banner-content ul li,
+        .subscribe-area .subscribe-inner h2 {
+            font-size: 30px;
+        }
+        .main-banner-content.banner-content-center {
+            margin-top: 0;
+        }
+        .home-slides.owl-theme .owl-nav [class*="owl-"] {
+            top: auto;
+            bottom: 20px;
+            left: 35px;
+        }
+        .home-slides.owl-theme .owl-nav [class*="owl-"].owl-next {
+            left: auto;
+            right: 35px;
+        }
+        .banner-with-speaker.main-banner {
+            padding-bottom: 0;
+        }
+        .event-countdown #timer div {
+            margin: 0 25px;
+            font-size: 55px;
+        }
+        .event-countdown #timer div span {
+            font-size: 13px;
+            right: -28px;
+            margin-top: -11px;
+            letter-spacing: 0;
+        }
+        .event-countdown #timer div#hours span {
+            right: -32px;
+            margin-top: -10px;
+        }
+        .event-countdown #timer div#minutes span,
+        .event-countdown #timer div#seconds span {
+            right: -40px;
+            margin-top: -10px;
+        }
+        .countdown-area .event-countdown #timer div {
+            margin: 0 30px;
+        }
+        .about-content h2 {
+            font-size: 26px;
+        }
+        .about-image {
+            margin-top: 30px;
+            display: none;
+        }
+        .photos_tiecon .images-data {
+            padding-top: 10px;
+        }
+        .about-image .btn {
+            bottom: 0;
+            right: 25px;
+            -webkit-transform: unset !important;
+            transform: unset !important;
+        }
+        .about-area-three .about-image .btn {
+            bottom: 30px;
+        }
+        .why-choose-us {
+            padding: 0 15px;
+        }
+        .funFact,
+        .single-box {
+            padding-left: 0;
+        }
+        .single-box {
+            height: 100%;
+            border: none !important;
+            padding-right: 0;
+        }
+        .single-box .content {
+            position: relative;
+            z-index: 2;
+            padding-left: 0;
+            padding-right: 0;
+            margin-top: 30px;
+        }
+        .single-box .content .btn {
+            opacity: 1;
+            visibility: visible;
+            margin-top: 20px;
+        }
+        .single-box .content .icon {
+            font-size: 35px;
+            line-height: 40px;
+        }
+        .single-box:focus .content,
+        .single-box:hover .content {
+            bottom: 0;
+        }
+        .contact-box p:last-child,
+        .schedule-style-four .tab_content .tabs_item .accordion .accordion-item .accordion-title .schedule-info ul li:last-child,
+        .single-box:focus .content p,
+        .single-box:hover .content p {
+            margin-bottom: 0;
+        }
+        .elkevent-single-speakers .speakers-content h3,
+        .faq-contact h3,
+        .pricing-plan h3,
+        .pricing-table-box .title,
+        .single-speakers-box .speakers-content h3,
+        .tabs li a,
+        .why-choose-content h3 {
+            font-size: 22px;
+        }
+        .why-choose-us-two .col-lg-4:first-child {
+            -webkit-box-ordinal-group: 2;
+            -ms-flex-order: 1;
+            order: 1;
+        }
+        .why-choose-us-two .col-lg-4:nth-child(2) {
+            -webkit-box-ordinal-group: 3;
+            -ms-flex-order: 2;
+            order: 2;
+        }
+        .why-choose-us-two .col-lg-4:nth-child(3) {
+            -webkit-box-ordinal-group: 5;
+            -ms-flex-order: 4;
+            order: 4;
+        }
+        .why-choose-us-two .col-lg-4:nth-child(4) {
+            -webkit-box-ordinal-group: 4;
+            -ms-flex-order: 3;
+            order: 3;
+        }
+        .why-choose-us-two .col-lg-4:nth-child(5) {
+            -webkit-box-ordinal-group: 6;
+            -ms-flex-order: 5;
+            order: 5;
+        }
+        .why-choose-us-two .col-lg-4:nth-child(6) {
+            -webkit-box-ordinal-group: 7;
+            -ms-flex-order: 6;
+            order: 6;
+        }
+        .why-choose-us-two .col-lg-4:nth-child(7) {
+            -webkit-box-ordinal-group: 8;
+            -ms-flex-order: 7;
+            order: 7;
+        }
+        .why-choose-us-two .col-lg-4:nth-child(8) {
+            -webkit-box-ordinal-group: 9;
+            -ms-flex-order: 8;
+            order: 8;
+        }
+        .pricing-area,
+        .schedule-style-three,
+        .speakers-area-two {
+            padding-bottom: 50px;
+        }
+        .tab_content .tabs_item .accordion .accordion-item .accordion-title .schedule-info h3 {
+            font-size: 21px;
+            margin-bottom: 12px;
+        }
+        .tab_content .tabs_item .accordion .accordion-item .accordion-title .schedule-info ul li {
+            font-size: 13px;
+        }
+        .schedule-slides-item .single-schedule {
+            padding: 0 0 0 175px;
+        }
+        .schedule-slides-item .single-schedule .schedule-date {
+            font-size: 22px;
+            padding: 20px;
+            width: 175px;
+        }
+        .schedule-slides-item .single-schedule .schedule-content .schedule-info h3 {
+            font-size: 20px;
+            margin-bottom: 10px;
+        }
+        .schedule-slides-item .single-schedule .schedule-content .schedule-info ul li {
+            margin-right: 10px;
+            font-size: 13px;
+        }
+        .schedule-slides.owl-theme .owl-nav [class*="owl-"] {
+            left: -15px;
+        }
+        .schedule-slides.owl-theme .owl-nav [class*="owl-"].owl-next {
+            right: -15px;
+            left: auto;
+        }
+        .sidebar .widget .widget-title,
+        .single-blog-post .blog-post-content h3,
+        .single-schedule-item .schedule-item-wrapper .schedule-content .schedule-info h3 {
+            font-size: 20px;
+        }
+        .schedule-style-four .tab_content .tabs_item .accordion .accordion-item .accordion-title .schedule-info ul li {
+            font-size: 14px;
+            display: block;
+            margin-right: 0;
+            margin-bottom: 10px;
+        }
+        .single-funfact .icon {
+            font-size: 35px;
+        }
+        .funFact h3,
+        .pricing-table-box .price-value,
+        .single-funfact h3 {
+            font-size: 40px;
+        }
+        .funFact .icon {
+            font-size: 35px;
+            position: relative;
+        }
+        .funFact h3 {
+            margin-top: 10px;
+        }
+        .pricing-table-box .price-value sup {
+            font-size: 20px;
+            top: -20px;
+        }
+        .pricing-plan h3 span {
+            height: 140px;
+            width: 140px;
+            line-height: 145px;
+            font-size: 30px;
+        }
+        .partner-area .partner-title {
+            margin-bottom: 10px;
+            margin-top: 10px;
+            -webkit-transform: unset !important;
+            transform: unset !important;
+        }
+        .partner-area .partner-title h3 {
+            font-size: 20px;
+            font-weight: 500;
+            margin-bottom: 20px;
+        }
+        .cta-area span {
+            font-size: 16px;
+        }
+        .cta-area .text-right {
+            text-align: left !important;
+            margin-top: 25px;
+        }
+        .single-blog-card .blog-post-content {
+            padding: 0 20px 20px;
+        }
+        .single-blog-card .blog-post-content h3 {
+            margin-bottom: 0;
+            font-size: 20px;
+        }
+        .buy-tickets-area.ptb-120 {
+            padding-bottom: 175px;
+        }
+        .subscribe-area .subscribe-inner button {
+            font-size: 12px !important;
+            padding: 5px 10px !important;
+        }
+        .contact-info {
+            font-size: 12px !important;
+            width: 100% !important;
+        }
+        footer.footer-area .container {
+            padding-left: 60px !important;
+            padding-right: 60px !important;
+        }
+        .page-title-area {
+            padding-top: 60px;
+            padding-bottom: 60px;
+        }
+        .page-title-area h1 {
+            font-size: 13px;
+            margin: 20px 0 35px;
+        }
+        .page-title-area span {
+            margin-top: 8px;
+            font-size: 16px;
+        }
+        .coming-soon,
+        .login-area,
+        .signup-area {
+            height: 100%;
+            padding-top: 100px;
+            padding-bottom: 100px;
+        }
+        .faq-accordion,
+        .faq-contact {
+            padding: 30px;
+        }
+        .sidebar {
+            margin-top: 50px;
+        }
+        #contactForm,
+        .copyright-area {
+            margin-top: 30px;
+        }
+        .comments-area .comment-reply-title,
+        .comments-area .comments-title {
+            font-size: 20px;
+            margin-bottom: 25px;
+        }
+        .contact-box {
+            padding: 30px 20px 30px 75px;
+        }
+        .contact-box .icon {
+            width: 40px;
+            height: 40px;
+            line-height: 40px;
+            font-size: 16px;
+        }
+        .contact-box h4 {
+            font-size: 18px;
+            margin-bottom: 13px;
+        }
+        .contact-box p {
+            margin-bottom: 3px;
+            font-size: 14px;
+        }
+        .leave-your-message h3 {
+            margin-bottom: 12px;
+            font-size: 20px;
+        }
+        .footer-area {
+            padding-top: 30px;
+        }
+        .single-footer-widget h3 {
+            font-size: 16px;
+            margin-bottom: 4px !important;
+            margin-top: 15px !important;
+        }
+        .copyright-area {
+            padding: 10px 2px;
+        }
+        .container {
+            max-width: 100% !important;
+        }
+        .date {
+           left: 0px !important;
+        }
+        .demo_news1 .date {
+            width: 55% !important;
+        }
+        ul.platinump li {
+            width: 35% !important;
+            margin-bottom: 10px;
+        }
+        ul.gold.platinump li {
+            width: 32% !important;
+            margin-bottom: 20px
+        }
+        ul.bronzee.bron li {
+            width: 30% !important;
+            margin-bottom: 10px !important;
+        }
+        ul.goldspnsor li {
+            width: 28%;
+            margin-bottom: 10px !important;
+        }
+        ul.silver li {
+            width: 26% !important;
+            margin-bottom: 10px !important;
+        }
+        ul.bronzee li {
+            width: 24% !important;
+            margin-bottom: 10px !important;
+        }
+        ul.suporting li {
+            width: 22% !important;
+            margin-bottom: 10px !important;
+        }
+        .orignal_exibitor li {
+            width: 20% !important;
+            margin: 0 5px 10px !important;
+        }
+        .orignal_exibitor li {
+            width: 18% !important;
+            margin-bottom: 10px !important;
+        }
+        ul.ecoo li {
+            width: 16% !important;
+            margin-bottom: 10px;
+        }
+        .main-banner-content h1 span::after {
+            width: 23px;
+            height: 23px;
+            left: 1px;
+            top: 9px;
+        }
+        .main-banner-content h1 span::before {
+            width: 27px;
+            height: 27px;
+            left: -1px;
+            top: 7px;
+        }
+        .main-banner-content h1 span {
+            font-size: 14px !important;
+            width: 24px;
+            margin-left: 2px;
+            margin-right: 2px;
+        }
+        #startup_form1 {
+            width: 100% !important;
+            float:left !important;
+        }
+        .startup_form.row a.btn.btn-primary.lax {
+            font-size: 12px !important;
+        }
+        /* .main-banner.slideshow-banner.startup .main-banner-content.for_startup {
+            display: block !important;
+        } */
+        .startup_img {
+            width: 70% !important;
+            max-width: 70% !important;
+        }
+        .main-banner-content.saksham {
+            display: block !important;
+        }
+        .saksham .startup_img img {
+            width: 50% !important;
+        }
+        .startup_img {
+            width: 100% !important;
+            max-width: 100% !important;
+            text-align: center;
+        }
+        .ssk_stage h2{
+            text-align: center !important;
+        }
+        .ssk_stage p{
+            text-align: center !important;
+        }
+    }
+
+    @media only screen and (min-width: 992px) and (max-width: 1023px) {
+        .startup .cont-bx {
+            width: 58%!important;
+            padding: 1%!important;
+            margin-top: 10px!important;
+        }
+    .whyus {
+        float: left;
+        width: 100%;
+    }
+    .pitch {
+        float: left;
+    }
+    .descp {
+        width: 100%;
+    }
+    .main-banner-content .form .process ul li {
+        width: 100% !important;
+        text-align: left;
+    }
+    .form.cont-bx ul li {
+        text-align: left;
+        font-size: 28px;
+    }
+    .main-banner-content .form .process ul li p {
+        text-align: left !important;}
+    .form.cont-bx ul {
+        margin-bottom: 10px;
+    }
+    #startup_form1 {
+        width: 100% !important;
+        float:left !important;
+    }
+}
+    @media only screen and (min-width: 992px) and (max-width: 1100px) {
+        .elkevent-nav nav .navbar-nav .nav-item a {
+            font-size: 11px;
+            margin-left: 2px;
+            margin-right: 2px;
+        }
+        .about-image video.video {
+            width: 380px !important;
+            top: 120px !important;
+            right: 100px !important;
+        }
+        section#about a.btn.btn-primary.explore_abt {
+            display: none !important;
+        }
+    }
+    @media only screen and (min-width: 1101px) and (max-width: 1200px) {
+        .elkevent-nav nav .navbar-nav .nav-item a {
+            font-size: 11px;
+            margin-left: 4px;
+            margin-right: 4px;
+        }
+        .about-image video.video {
+            width: 430px !important;
+            top: 170px !important;
+            right: 95px !important;
+        }
+    }
+    @media only screen and (min-width: 992px) and (max-width: 1200px) {
+        .about-image .btn,
+        .contact-info {
+            font-size: 13px !important;
+        }
+        .about-area-three .about-image img,
+        iframe {
+            width: 100%;
+        }
+        .cont-bx {
+            width: 540px;
+            padding: 5%;
+            height: 475px;
+        }
+        .cont-bx1 {
+            float: right;
+            width: 31%;
+            margin-top: 40px;
+        }
+        .main-banner-content h1 span {
+            font-size: 18px !important;
+        }
+        .main-banner-content h1 span::after {
+            width: 25px;
+            height: 25px;
+            left: 1px;
+            top: 8px;
+        }
+        .main-banner-content h1 span::before {
+            width: 29px !important;
+            height: 28px !important;
+            left: -1px;
+            top: 6px;
+        }
+        .cont-bx h6 {
+            font-size: 19px;
+            padding: 5px 10px !important;
+        }
+        .cont-bx .button-box {
+            bottom: -460px;
+            left: 22px;
+            right: 0;
+            text-align: center;
+            width: 245px;
+        }
+        .ribbon-2:after {
+            height: 0;
+            width: 0;
+            border-top: 35px solid transparent;
+            border-bottom: 33px solid transparent;
+            border-left: 26px solid #000;
+            right: -26px;
+            top: 0;
+        }
+        .m-none,
+        .single-box .content::before {
+            display: none;
+        }
+        .main-banner1 {
+            height: 300px;
+        }
+        .main-banner {
+            height: 560px;
+        }
+        .single-speakers figcaption,
+        .single-speakers img {
+            height: 165px !important;
+        }
+        img.speakers_pictures {
+            height: auto !important;
+        }
+        button.view_details {
+            margin: 30px auto !important;
+        }
+        .about-image .btn {
+            padding: 9px 17px !important;
+            right: 50px;
+        }
+        .single-blog-post .blog-image .single-speakers {
+            height: auto;
+        }
+        .single-blog-post .blog-image .single-speakers .speakers-content {
+            height: 50px;
+        }
+        .page-title-area {
+            padding-top: 50px;
+            padding-bottom: 50px;
+        }
+        .about-area.bg-image {
+            padding: 20px 0;
+        }
+        .single-box .content {
+            margin-top: 1px;
+            padding-left: 10px;
+            padding-right: 10px;
+        }
+        .single-box {
+            height: 270px;
+        }
+        /* .elkevent-nav nav .navbar-nav .nav-item a {
+            font-size: 11px;
+            margin-left: 2px;
+            margin-right: 2px;
+        } */
+        .navbar-light .navbar-brand {
+            width: 130px !important;
+        }
+        .single-speakers .speakers-content span {
+            margin-top: 4px;
+            font-size: 10px;
+        }
+        .main-banner-content h2,
+        .pricing-table-box .price-value {
+            font-size: 40px;
+        }
+        .page-title-area h1,
+        ul.bronzee.margin-t h6 {
+            font-size: 15px !important;
+        }
+        .page-title-area h1 {
+            margin: 20px 0 30px;
+        }
+        .single-speakers {
+            height: 267px;
+        }
+        .main-banner-content p {
+            font-size: 43px;
+            line-height: 65px;
+        }
+        .single-box .content p {
+            height: 70px;
+            font-size: 12px;
+        }
+        .single-box:focus .content p,
+        .single-box:hover .content p {
+            margin-bottom: 4px !important;
+        }
+        .main-banner-content h1 {
+            font-size: 33px;
+        }
+        .banner-with-form .offset-lg-1 {
+            margin-left: 0;
+        }
+        .banner-form {
+            margin-top: 25px;
+        }
+        .event-countdown #timer div {
+            font-size: 65px;
+        }
+        .about-content span,
+        .cta-area span,
+        .section-title span,
+        .single-box .content h3,
+        .subscribe-area .subscribe-inner span {
+            font-size: 15px;
+        }
+        .about-content h2,
+        .section-title h2 {
+            font-size: 26px;
+        }
+        .about-image .about-img1 {
+            width: 100%;
+            top: -62px;
+            right: -54px;
+        }
+        .about-image .about-img2 {
+            left: 0;
+            bottom: -80px;
+            height: 350px;
+        }
+        .copyright-area {
+            padding: 10px 20px !important;
+        }
+        .about-image .btn {
+            bottom: 0;
+            -webkit-transform: unset !important;
+            transform: unset !important;
+        }
+        .why-choose-content {
+            padding: 10px;
+        }
+        .why-choose-content h3 {
+            font-size: 22px;
+            margin-bottom: 10px;
+        }
+        .cta-area h3 {
+            font-size: 30px;
+        }
+        .single-speakers .speakers-content h3 {
+            font-size: 12px;
+        }
+        .single-speakers .speakers-content {
+            background: 0 0;
+        }
+        .elkevent-single-speakers ul li a,
+        .single-speakers ul li a {
+            width: 35px;
+            height: 35px;
+            line-height: 35px;
+            font-size: 14px;
+        }
+        .single-speakers:focus .speakers-content,
+        .single-speakers:hover .speakers-content {
+            bottom: 12px;
+        }
+        .elkevent-single-speakers .speakers-content {
+            padding: 15px 10px;
+        }
+        .elkevent-single-speakers .speakers-content h3,
+        .pricing-table-box .title,
+        .schedule-slides-item .single-schedule .schedule-content .schedule-info h3,
+        .single-speakers-box .speakers-content h3,
+        .tab_content .tabs_item .accordion .accordion-item .accordion-title .schedule-info h3 {
+            font-size: 22px;
+        }
+        .elkevent-single-speakers .speakers-content span {
+            font-size: 14px;
+            margin-top: 6px;
+        }
+        .section-title .bg-title {
+            font-size: 60px;
+            -webkit-transform: unset !important;
+            transform: unset !important;
+        }
+        .sidebar .widget .widget-title,
+        .single-schedule-item .schedule-item-wrapper .schedule-content .schedule-info h3 {
+            font-size: 20px;
+        }
+        .single-schedule-item .schedule-item-wrapper .schedule-content .schedule-info ul li {
+            font-size: 14px;
+            display: block;
+            margin-right: 0;
+            margin-bottom: 5px;
+        }
+        .single-schedule-item .schedule-item-wrapper .schedule-content .schedule-info ul li:last-child {
+            margin-bottom: 0;
+        }
+        .partner-area .partner-title {
+            -webkit-transform: unset !important;
+            transform: unset !important;
+        }
+        .partner-area .partner-title h3 {
+            font-size: 18px;
+        }
+        .subscribe-area .subscribe-inner h2 {
+            font-size: 34px;
+        }
+        .single-footer-widget .social-links li {
+            margin-right: 0 !important;
+        }
+        #about .container,
+        .partner-area .container {
+            max-width: 100% !important;
+        }
+        .saksham .startup_img img {
+            object-fit: contain;
+            height: 450px;
+            width: 100%;
+        }
+        .saksham .cont-bx {
+            height: auto !important;
+        }
+    }
+    @media only screen and (min-width: 1650px) {
+        .main-banner {
+            height: 100vh;
+        }
+        .event-countdown {
+            right: 20%;
+            bottom: 0;
+        }
+        .about-image .about-img1 {
+            right: -200px;
+        }
+    }
+    @media only screen and (max-width: 991px) {
+        .elkevent-mobile-nav nav .navbar-nav .nav-item a i,
+        .m-none {
+            display: none;
+        }
+        .elkevent-mobile-nav {
+            display: block;
+            position: relative;
+            width: 100%;
+        }
+        .elkevent-mobile-nav .logo {
+            position: absolute;
+            top: 5px;
+            z-index: 999;
+            left: 15px;
+        }
+        .elkevent-mobile-nav .logo img {
+            width: 125px;
+        }
+        .elkevent-nav {
+            display: none !important;
+        }
+    }
+    @media only screen and (max-width: 400px) {
+        .main-banner-content ul li {
+            font-size: 24px !important;
+        }
+        .cont-bx h6 {
+            font-size: 18px !important;
+        }
+        .single-box .content h3 {
+            font-size: 17px !important;
+        }
+        .contact-info {
+            margin: 8px 0 0;
+        }
+        .ptb-120 .section-title h2 {
+            font-size: 17px;
+        }
+        #speaker .section-title span {
+            text-align: center !important;
+        }
+    }
+    @media only screen and (min-width: 1201px) and (max-width: 1440px) {
+        .about-image img.about-img1 {
+            width: 91% !important;
+        }
+    }
+
+    @media only screen and (min-width: 1201px) and (max-width: 1440px) {
+        .single-footer-widget p {
+            font-size: 12px !important;
+        }
+        .elkevent-nav nav .navbar-nav .nav-item a {
+            margin-left: 6px !important;
+            margin-right: 6px !important;
+            font-size: 14px !important;
+        }
+        .about-content h2 {
+            font-size: 30px;
+        }
+        .section-title h2 {
+            font-size: 28px;
+        }
+       
+    }
+    @media only screen and (min-width: 1441px) and (max-width: 1600px) {
+        .elkevent-nav nav .navbar-nav .nav-item a {
+            font-size: 14px !important;
+        }
+    
+    }
+    @media (min-width: 1201px) and (max-width: 2500px) {
+        .section-policy .container {
+            max-width: 1300px !important;
+        }
+        .elkevent-nav nav .navbar-nav .nav-item a {
+            font-size: 13px !important;
+        }
+        
+    }
+    @media (min-width: 450px) and (max-width: 767px) {
+        .section-title .bar.Baar {
+            top: 55px !important;
+        }
+    }
+    @media only screen and (min-width: 320px) and (max-width: 450px) {
+        .qr-code {
+            width: 55%;       
+        }
+        .speakers_buttons a { display: block !important; margin: 0 auto 10px !important; width:200px !important;}
+    }
+    @media only screen and (min-width: 451px) and (max-width: 575px) {
+        .qr-code {
+            width: 40%;       
+        }
+        .speakers_buttons a { display: block !important; margin: 0 auto 10px !important; width:200px !important; }
+    }
+    @media only screen and (min-width: 576px) and (max-width: 767px) {
+        .qr-code {
+            width: 60%;
+        }
+        .links_block.block_links h3 {
+            font-size: 12px !important;
+        }
+    }
+    @media only screen and (min-width: 768px) and (max-width: 991px) {
+        .qr-code {
+            width: 50%;       
+        }
+        .links_block.block_links h3 {
+            font-size: 14px;
+        }
+    }
+    @media only screen and (min-width: 992px) and (max-width: 1200px) {
+        .qr-code {
+            width: 40%;       
+        }
+        .links_block.block_links h3 {
+            font-size: 14px;
+        }
+        section.about-area img.about-img1 {
+            width: 90% !important;
+        }
+        .others-option a.btn.btn-primary {
+            padding: 8px 8px;
+            font-size: 12px;
+        }
+    }
+    @media only screen and (min-width: 1201px) and (max-width: 1500px) {
+        .qr-code {
+            width: 35%;       
+        }
+    }
+    @media only screen and (min-width: 1024px) and (max-width: 1200px) {
+        .main-banner-content .form .process ul li {
+            width: 47% !important;   
+             margin-right: 10px;
+            }
+
+        .form ul li {
+                font-size: 30px;
+            }
+        .startup .cont-bx {
+                padding: 1%;
+                margin-top: 40px;
+            }
+        .process h4 {
+                font-size: 16px;
+            }
+        .main-banner-content .form .process ul li img {
+                width: 45px;
+            }
+            .main-banner-content h1 span::before {
+                width: 29px !important;
+                height: 28px !important;
+                left: -1px;
+                top: 6px;
+            }
+            .main-banner-content h1 span::after {
+                width: 25px;
+                height: 25px;
+                left: 1px;
+                top: 8px;
+            }
+            .startup_form.row a.btn.btn-primary.lax {
+                font-size: 12px !important;
+            }
+            
+    }
+    @media only screen and (min-width: 1201px) and (max-width: 1300px) {
+        .main-banner-content h1 span {
+            font-size: 17px !important;
+        }
+        .main-banner-content h1 span::before {
+            width: 29px;
+            height: 28px;
+            left: -2px;
+            top: 7px;
+        }
+        .main-banner-content h1 span::after {
+            width: 25px;
+            height: 25px;
+            left: 0px;
+            top: 8px;
+        }
+    }

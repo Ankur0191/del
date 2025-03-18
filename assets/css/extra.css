@@ -1,0 +1,1556 @@
+.eventpage-header_description .description-list .content,
+.eventpage-wrapper .blog-title p {
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #212121;
+    font-family: "Open Sans", sans-serif;
+    font-size: 14px
+}
+
+.infor-last {
+    float: left;
+    width: 100%;
+    margin-top: 0
+}
+
+.infor-last p span {
+    background: #000;
+    display: block;
+    padding: 14px;
+    font-size: 14px;
+    color: #fff;
+    border-radius: 3px
+}
+
+.infor-last p {
+    font-size: 20px;
+    font-weight: 600;
+    color: #ff2d55;
+    text-align: center
+}
+
+.eventpage,
+.eventpage-card.image-card .title,
+.eventpage-card.qna-card .event-qna,
+.eventpage-card.qna-card .qna-wrapper .question-detail-dummy,
+.eventpage-card.qna-card .title,
+.eventpage-card.review-card .event-review,
+.eventpage-card.review-card .event-review .review .reviewer-review,
+.eventpage-card.review-card .event-review .review-action,
+.eventpage-card.review-card .event-review .review-submit .comment-action_wrapper,
+.eventpage-card.review-card .event-review .review-submit .comment-box,
+.eventpage-card.review-card .title,
+.eventpage-card.session-card .session-detail,
+.eventpage-card.session-card .session-time,
+.eventpage-card.session-card .title,
+.eventpage-card.speaker-card .speaker-info,
+.eventpage-card.speaker-card .title,
+.eventpage-card.tab-card .tab-content_wrapper .album-title,
+.eventpage-header_description .date-section,
+.eventpage-header_image,
+.eventpage-wrapper .eventname,
+.eventpage-wrapper .eventname-title,
+.eventpage-wrapper .small-card {
+    padding: 0
+}
+
+.eventpage p {
+    margin-top: 0;
+    margin-bottom: 0
+}
+
+.eventpage .report-spam-btn {
+    font-family: "Open Sans", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #757575;
+    cursor: pointer;
+    margin-top: 5px;
+    margin-bottom: 0
+}
+
+.eventpage .report-spam-btn .fa {
+    margin-right: 5px
+}
+
+.eventpage-wrapper {
+    padding: 16px 24px;
+    background-color: #f1f1f1;
+    width: auto
+}
+
+.eventpage-wrapper .blog-content {
+    display: table;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 0;
+    margin-bottom: 20px
+}
+
+.eventpage-wrapper .blog-content_wrapper {
+    background-color: #f2dede;
+    border: 1px solid #ebccd1;
+    padding: 12px 40px;
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    height: 30px
+}
+
+.eventpage-wrapper .blog-title {
+    padding: 0;
+    text-align: center
+}
+
+.eventpage-wrapper .blog-title p {
+    margin: 0
+}
+
+.eventpage-wrapper .wide-card {
+    padding-left: 0;
+    padding-right: 16px
+}
+
+.eventpage-header_section {
+    padding: 0;
+    position: relative;
+    overflow: hidden
+}
+
+.eventpage-header_section .bg-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .54)), color-stop(24%, rgba(0, 0, 0, 0)), color-stop(82%, rgba(0, 0, 0, 0)), to(rgba(0, 0, 0, .54)));
+    background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, .54), rgba(0, 0, 0, 0) 24%, rgba(0, 0, 0, 0) 82%, rgba(0, 0, 0, .54));
+    background-image: -o-linear-gradient(top, rgba(0, 0, 0, .54), rgba(0, 0, 0, 0) 24%, rgba(0, 0, 0, 0) 82%, rgba(0, 0, 0, .54));
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, .54), rgba(0, 0, 0, 0) 24%, rgba(0, 0, 0, 0) 82%, rgba(0, 0, 0, .54))
+}
+
+.eventpage-header_section .event-member,
+.eventpage-header_section .event-share {
+    bottom: 24px;
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    position: absolute
+}
+
+.eventpage-header_section .event-title {
+    padding: 0 24px;
+    position: absolute;
+    top: 20px
+}
+
+.eventpage-header_section .event-title h2 {
+    font-family: "Open Sans", sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    margin: 0;
+    color: #fff
+}
+
+.eventpage-header_section .event-member {
+    right: 24px;
+    display: inline-flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center
+}
+
+.eventpage-header_section .event-member .member-title {
+    margin-left: 8px
+}
+
+.eventpage-header_section .event-member .member-title p {
+    font-family: "Open Sans", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    margin-bottom: 0;
+    margin-top: 0;
+    color: #fff;
+    width: 52px
+}
+
+.eventpage-card.review-card .event-review .review-reviewer .reviewer-rating,
+.eventpage-card.review-card .event-review .review-wrapper:first-child .review,
+.eventpage-card.review-card .event-review .review.user-reply .review-reviewer,
+.eventpage-header_section .event-member .member-image {
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center
+}
+
+.eventpage-header_section .event-member .member-image .image {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin-left: -8px;
+    background-image: -webkit-gradient(linear, left top, right top, from(#fafafa), to(#d3d3d3));
+    background-image: -webkit-linear-gradient(left, #fafafa, #d3d3d3);
+    background-image: -o-linear-gradient(left, #fafafa, #d3d3d3);
+    background-image: linear-gradient(to right, #fafafa, #d3d3d3)
+}
+
+.eventpage-header_description .description-list .icon img,
+.eventpage-header_section .event-member .member-image .image img {
+    width: 100%;
+    height: 100%;
+    -o-object-fit: contain;
+    object-fit: contain
+}
+
+.eventpage-header_section .event-share {
+    left: 24px;
+    display: inline-flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center
+}
+
+.eventpage-header_section .event-share .share-text {
+    margin: 0
+}
+
+.eventpage-header_section .event-share .share-text img {
+    margin-right: 8px
+}
+
+.eventpage-header_section .event-share .share-text p {
+    font-family: "Open Sans", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #fff
+}
+
+.eventpage-header_image img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    background: #000
+}
+
+.eventpage-header_description {
+    background-color: #fff;
+    padding: 0
+}
+
+.eventpage-header_description .description-wrapper {
+    padding: 20px
+}
+
+.eventpage-header_description .description-list {
+    padding: 0;
+    margin-bottom: 16px;
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center
+}
+
+.eventpage-header_description .description-list .icon {
+    width: 27px;
+    height: 27px;
+    margin-right: 16px
+}
+
+.eventpage-header_description .description-list .content {
+    width: calc(100% - 38px)
+}
+
+.eventpage-header_description .description-list .map {
+    margin-left: 19px
+}
+
+.eventpage-header_description .description-list .map a {
+    color: #4990e2;
+    text-decoration: none;
+    font-size: 13px
+}
+
+.eventpage-header_description .date-section .title {
+    font-family: "Open Sans", sans-serif;
+    font-size: 13px;
+    font-weight: 700;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    margin-bottom: 6px;
+    color: #757575
+}
+
+.eventpage-card.organiser-card .organiser-detail,
+.eventpage-card.tab-card .tab-content p,
+.eventpage-card.tab-card .tab-content_wrapper .album-title p,
+.eventpage-card.tab-card .tab-content_wrapper .speakers-title p {
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    font-family: "Open Sans", sans-serif
+}
+
+.eventpage-header_description .date-section .date {
+    width: 202px;
+    height: 38px;
+    background-color: #fdfdfd;
+    border: 1px solid #ececec;
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center
+}
+
+.eventpage-header_description .date-section .date input {
+    height: 100%;
+    padding: 0 12px;
+    border-bottom: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    color: #212121;
+    border: none;
+    font-family: "Open Sans", sans-serif
+}
+
+.eventpage-header_description .date-section .date .input-group-addon {
+    padding: 0 12px
+}
+
+.eventpage-header_description .date-section .date .input-group-addon span {
+    font-size: 22px;
+    color: #07c677
+}
+
+.eventpage-header_description .register-btn {
+    width: auto;
+    border-radius: 3px;
+    background-color: #4a90e2;
+    font-size: 13px;
+    color: #fff;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 700;
+    text-align: center;
+    text-transform: capitalize;
+    padding: 6px 24px;
+    height: 36px;
+    margin-top: 12px;
+    outline: 0 !important
+}
+
+.eventpage-header_description .register-btn.disable-btn-state {
+    background-color: #f2f2f2;
+    cursor: not-allowed;
+    color: #757575;
+    outline: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none
+}
+
+.eventpage-card {
+    background-color: #fff;
+    margin-bottom: 19px;
+    padding: 0
+}
+
+.eventpage-card.tab-card .nav-tabs {
+    width: auto;
+    border-bottom: none;
+    padding: 0 20px;
+    -webkit-box-shadow: inset 0 -1px 0 #e1e1e1;
+    box-shadow: inset 0 -1px 0 #e1e1e1
+}
+
+.eventpage-card.tab-card .nav-tabs>li {
+    -webkit-box-shadow: none;
+    box-shadow: none
+}
+
+.eventpage-card.tab-card .nav-tabs>li.active>a {
+    color: #212121;
+    -webkit-box-shadow: inset 0 -4px 0 #07c677;
+    box-shadow: inset 0 -4px 0 #07c677;
+    font-weight: 700
+}
+
+.eventpage-card.tab-card .nav-tabs>li>a {
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    outline: 0;
+    color: #757575;
+    font-size: 14px;
+    border: none;
+    text-decoration: none
+}
+
+.eventpage-card.tab-card .nav-tabs>li>a:hover {
+    background-color: transparent;
+    color: #212121
+}
+
+.eventpage-card.tab-card .tab-content {
+    height: 612px;
+    overflow-y: auto;
+    padding: 8px
+}
+
+.eventpage-card.tab-card .tab-content::-webkit-scrollbar {
+    width: 6px
+}
+
+.eventpage-card.tab-card .tab-content::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, .3)
+}
+
+.eventpage-card.tab-card .tab-content::-webkit-scrollbar-thumb {
+    background-color: #a9a9a9;
+    outline: #708090 solid 1px
+}
+
+.eventpage-card.tab-card .tab-content iframe {
+    width: 100%;
+    height: 390px
+}
+
+.eventpage-card.tab-card .tab-content_wrapper {
+    padding: 16px
+}
+
+.eventpage-card.tab-card .tab-content_wrapper img {
+    max-width: 100%
+}
+
+.eventpage-card.tab-card .tab-content_wrapper .album,
+.eventpage-card.tab-card .tab-content_wrapper .speakers {
+    padding: 0;
+    margin-bottom: 36px
+}
+
+.eventpage-card.qna-card .qna-wrapper .answer-container .answer-wrapper:last-child,
+.eventpage-card.qna-card .qna-wrapper .answer-wrapper:last-child,
+.eventpage-card.qna-card .qna-wrapper .question-detail-dummy p:last-child,
+.eventpage-card.tab-card .tab-content_wrapper .album:last-child,
+.eventpage-card.tab-card .tab-content_wrapper .speakers:last-child {
+    margin-bottom: 0
+}
+
+.eventpage-card.tab-card .tab-content_wrapper .album-title p,
+.eventpage-card.tab-card .tab-content_wrapper .speakers-title p {
+    font-size: 16px;
+    color: #757575;
+    margin-bottom: 0;
+    margin-top: 0
+}
+
+.eventpage-card.tab-card .tab-content_wrapper .album-content,
+.eventpage-card.tab-card .tab-content_wrapper .speakers-content {
+    padding: 0;
+    overflow: hidden
+}
+
+.eventpage-card.tab-card .tab-content_wrapper .album-content_wrapper {
+    padding: 0;
+    width: calc(100% + 18px)
+}
+
+.eventpage-card.tab-card .tab-content_wrapper .album-content_wrapper .image {
+    cursor: pointer;
+    padding-left: 0;
+    padding-right: 18px;
+    height: 160px;
+    margin-top: 18px
+}
+
+.eventpage-card.speaker-card .speaker-image img,
+.eventpage-card.tab-card .tab-content_wrapper .album-content_wrapper .image img {
+    width: 100%;
+    height: 100%;
+    -o-object-fit: cover;
+    object-fit: cover
+}
+
+.eventpage-card.tab-card .tab-content_wrapper .album-content_wrapper .video {
+    padding-left: 0;
+    padding-right: 18px;
+    height: 100%;
+    margin-top: 18px
+}
+
+.eventpage-card.tab-card .tab-content_wrapper .album-content_wrapper .video iframe {
+    width: 100%
+}
+
+.eventpage-card.tab-card .tab-content_wrapper .speakers-title {
+    padding: 0;
+    margin-bottom: 18px
+}
+
+.eventpage-card.tab-card .tab-content_wrapper .speakers-content_wrapper {
+    padding: 0;
+    width: calc(100% + 98px)
+}
+
+.eventpage-card.tab-card .tab-content_wrapper .speakers-content_wrapper .image {
+    padding-left: 0;
+    padding-right: 98px;
+    margin-bottom: 36px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center
+}
+
+.eventpage-card.tab-card .tab-content_wrapper .speakers-content_wrapper .image img {
+    -o-object-fit: contain;
+    object-fit: contain;
+    margin: auto;
+    height: 61px
+}
+
+.eventpage-card.tab-card .tab-content p {
+    font-size: 12px;
+    color: #000;
+    margin-bottom: 16px
+}
+
+.eventpage-card.image-card,
+.eventpage-card.organiser-card,
+.eventpage-card.qna-card,
+.eventpage-card.review-card,
+.eventpage-card.session-card,
+.eventpage-card.speaker-card {
+    padding: 24px;
+    width: 100%
+}
+
+.eventpage-card.organiser-card .organiser-detail {
+    font-size: 18px;
+    color: #757575;
+    margin-top: 0;
+    margin-bottom: 6px
+}
+
+.eventpage-card.organiser-card .organiser-detail span {
+    color: #212121;
+    font-weight: 700
+}
+
+.eventpage-card.organiser-card .organiser-location,
+.eventpage-card.review-card .event-review .rating-display p:last-child,
+.eventpage-card.review-card .event-review .review-reviewer .reviewer-rating .rating-text {
+    font-family: "Open Sans", sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #757575;
+    margin-bottom: 0
+}
+
+.eventpage-card.organiser-card .organiser-action {
+    margin-top: 36px;
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    width: 100%
+}
+
+.eventpage-card.organiser-card .organiser-social {
+    width: calc(100% - 160px)
+}
+
+.eventpage-card.organiser-card .organiser-social a {
+    text-decoration: none
+}
+
+.eventpage-card.organiser-card .organiser-social .social {
+    width: 36px;
+    height: 36px;
+    background-color: #efefef;
+    border-radius: 50%;
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center
+}
+
+.eventpage-card.organiser-card .organiser-social .social p {
+    margin-bottom: 0;
+    margin-top: 0;
+    color: #acacac;
+    font-size: 10px;
+    text-align: center;
+    width: 100%
+}
+
+.eventpage-card.organiser-card .organiser-contact {
+    width: 160px;
+    text-align: right
+}
+
+.eventpage-card.organiser-card .organiser-contact .contact-btn {
+    width: auto;
+    border-radius: 30px;
+    background-color: #4a90e2;
+    font-size: 13px;
+    color: #fff;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 700;
+    text-align: center;
+    outline: 0;
+    text-transform: capitalize;
+    padding: 6px 12px
+}
+
+.eventpage-card.image-card .title p,
+.eventpage-card.qna-card .title p,
+.eventpage-card.review-card .title p,
+.eventpage-card.session-card .title p,
+.eventpage-card.speaker-card .title p {
+    font-family: "Open Sans", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #757575;
+    margin-bottom: 0;
+    margin-top: 0
+}
+
+.eventpage-card.image-card .image-carousel {
+    padding: 0;
+    margin: 30px 0 20px
+}
+
+.eventpage-card.image-card .image-carousel .carousel {
+    height: 335px
+}
+
+.eventpage-card.image-card .image-carousel .carousel-inner .item>img {
+    height: 335px;
+    -o-object-fit: cover;
+    object-fit: cover
+}
+
+.eventpage-card.image-card .image-carousel .carousel-control {
+    width: 36px;
+    height: 48px;
+    background-color: #fff;
+    background-image: none;
+    opacity: .79;
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    top: calc(50% - 24px)
+}
+
+.eventpage-card.image-card .image-carousel .carousel-control span {
+    color: #212121;
+    width: 100%;
+    text-shadow: none
+}
+
+.eventpage-card.image-card .image-carousel .carousel-indicators {
+    bottom: -25px;
+    margin-top: 0;
+    margin-bottom: 0
+}
+
+.eventpage-card.image-card .image-carousel .carousel-indicators li {
+    width: 8px;
+    height: 8px;
+    background-color: #f1f1f1;
+    border: none;
+    margin: 0
+}
+
+.eventpage-card.image-card .image-carousel .carousel-indicators li.active {
+    width: 8px;
+    height: 8px;
+    background-color: #4990e2;
+    -webkit-box-shadow: none;
+    box-shadow: none
+}
+
+.eventpage-card.review-card .event-review .review {
+    padding: 0;
+    width: 100%
+}
+
+.eventpage-card.review-card .event-review .review.user-reply {
+    margin-left: 100px;
+    width: calc(100% - 100px);
+    padding-top: 24px;
+    border-top: 1px dashed #999;
+    margin-top: 24px
+}
+
+.eventpage-card.review-card .event-review .review.user-reply .review-time p {
+    text-align: left
+}
+
+.eventpage-card.qna-card .qna-wrapper,
+.eventpage-card.review-card .event-review .review-wrapper {
+    padding: 24px 0;
+    border-bottom: 1px dashed #999
+}
+
+.eventpage-card.qna-card .qna-wrapper:last-child,
+.eventpage-card.review-card .event-review .review-wrapper:last-child,
+.eventpage-card.session-card .session-detail_wrapper:last-child {
+    border-bottom: none
+}
+
+.eventpage-card.review-card .event-review .review-wrapper .no-review {
+    padding: 0;
+    margin-top: 12px;
+    margin-bottom: 0
+}
+
+.eventpage-card.review-card .event-review .review-wrapper .no-review p {
+    font-family: "Open Sans", sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #757575;
+    margin: 0;
+    text-align: right
+}
+
+.eventpage-card.review-card .event-review .review .reviewer-review p,
+.eventpage-card.review-card .event-review .review-time p {
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: normal;
+    font-family: "Open Sans", sans-serif;
+    font-style: normal;
+    font-stretch: normal
+}
+
+.eventpage-card.review-card .event-review .review-time {
+    width: 40%;
+    float: right;
+    text-align: right
+}
+
+.eventpage-card.review-card .event-review .review-time p {
+    font-size: 12px;
+    color: #757575;
+    margin-bottom: 0
+}
+
+.eventpage-card.review-card .event-review .review-total {
+    padding: 0;
+    width: 50%;
+    float: left;
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center
+}
+
+.eventpage-card.review-card .event-review .review-comment {
+    padding: 0;
+    width: 50%;
+    float: left
+}
+
+.eventpage-card.review-card .event-review .review-comment .btn-review {
+    width: 133px;
+    border-radius: 0;
+    background-color: #31cdb4;
+    font-size: 13px;
+    color: #fff;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 700;
+    text-align: center;
+    outline: 0;
+    height: 35px;
+    padding: 0;
+    float: right
+}
+
+.eventpage-card.review-card .event-review .review-reviewer {
+    padding: 0;
+    width: 100%;
+    margin-bottom: 24px
+}
+
+.eventpage-card.review-card .event-review .review-reviewer_wrapper {
+    width: 60%;
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center
+}
+
+.eventpage-card.review-card .event-review .review-reviewer .reviewer-image {
+    width: 48px;
+    height: 48px
+}
+
+.eventpage-card.review-card .event-review .review-reviewer .reviewer-image img {
+    width: 100%;
+    height: 100%;
+    border-radius: 100%
+}
+
+.eventpage-card.qna-card .qna-wrapper .answer-detail,
+.eventpage-card.review-card .event-review .review-reviewer .reviewer-detail {
+    margin-left: 24px
+}
+
+.eventpage-card.review-card .event-review .review-reviewer .reviewer-name {
+    font-family: "Open Sans", sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #000;
+    margin-top: 0;
+    margin-bottom: 6px
+}
+
+.eventpage-card.review-card .event-review .review-reviewer .reviewer-rating img {
+    width: 100%;
+    margin-left: 12px;
+    -o-object-fit: contain;
+    object-fit: contain
+}
+
+.eventpage-card.review-card .event-review .review-action .reply,
+.eventpage-card.review-card .event-review .review-action .share {
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    margin-right: 36px;
+    cursor: pointer
+}
+
+.eventpage-card.qna-card .qna-wrapper .question-info .action img,
+.eventpage-card.review-card .event-review .review-action .reply img,
+.eventpage-card.review-card .event-review .review-action .share img {
+    width: 16px;
+    height: 16px;
+    -o-object-fit: contain;
+    object-fit: contain;
+    margin-right: 8px
+}
+
+.eventpage-card.review-card .event-review .review-action .reply p,
+.eventpage-card.review-card .event-review .review-action .share p {
+    font-family: "Open Sans", sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #4990e2;
+    margin-bottom: 0
+}
+
+.eventpage-card.review-card .event-review .review .reviewer-review p {
+    font-size: 13px;
+    color: #757575;
+    margin-bottom: 16px
+}
+
+.eventpage-card.review-card .event-review .review-submit {
+    padding: 0;
+    margin-top: 24px
+}
+
+.eventpage-card.review-card .event-review .review-submit .title {
+    padding: 0;
+    margin-bottom: 10px
+}
+
+.eventpage-card.review-card .event-review .review-submit .title p {
+    font-family: "Open Sans", sans-serif;
+    font-size: 13px;
+    font-weight: 700;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #000;
+    margin-bottom: 0
+}
+
+.eventpage-card.review-card .event-review .review-submit .rating {
+    padding: 0;
+    float: left
+}
+
+.eventpage-card.review-card .event-review .rating-display .rating>input,
+.eventpage-card.review-card .event-review .review-submit .rating .rating>input {
+    display: none
+}
+
+.eventpage-card.review-card .event-review .rating-display .rating>label:before,
+.eventpage-card.review-card .event-review .review-submit .rating .rating>label:before {
+    margin-right: 5px;
+    font-size: 1.25em;
+    font-family: FontAwesome;
+    display: inline-block;
+    content: "\f005"
+}
+
+.eventpage-card.review-card .event-review .rating-display .rating>.half:before,
+.eventpage-card.review-card .event-review .review-submit .rating .rating>.half:before {
+    content: "\f089";
+    position: absolute
+}
+
+.eventpage-card.review-card .event-review .rating-display .rating>label,
+.eventpage-card.review-card .event-review .review-submit .rating .rating>label {
+    color: #ddd;
+    float: right;
+    margin-bottom: 0
+}
+
+.eventpage-card.review-card .event-review .rating-display .rating:not(:checked)>label:hover,
+.eventpage-card.review-card .event-review .rating-display .rating:not(:checked)>label:hover~label,
+.eventpage-card.review-card .event-review .rating-display .rating>input:checked+label:hover,
+.eventpage-card.review-card .event-review .rating-display .rating>input:checked~label,
+.eventpage-card.review-card .event-review .rating-display .rating>input:checked~label:hover,
+.eventpage-card.review-card .event-review .rating-display .rating>input:checked~label:hover~label,
+.eventpage-card.review-card .event-review .rating-display .rating>label:hover~input:checked~label,
+.eventpage-card.review-card .event-review .review-submit .rating .rating:not(:checked)>label:hover,
+.eventpage-card.review-card .event-review .review-submit .rating .rating:not(:checked)>label:hover~label,
+.eventpage-card.review-card .event-review .review-submit .rating .rating>input:checked+label:hover,
+.eventpage-card.review-card .event-review .review-submit .rating .rating>input:checked~label,
+.eventpage-card.review-card .event-review .review-submit .rating .rating>input:checked~label:hover,
+.eventpage-card.review-card .event-review .review-submit .rating .rating>input:checked~label:hover~label,
+.eventpage-card.review-card .event-review .review-submit .rating .rating>label:hover~input:checked~label {
+    color: #ffc564
+}
+
+.eventpage-card.review-card .event-review .rating-display fieldset,
+.eventpage-card.review-card .event-review .review-submit .rating fieldset {
+    padding: 0;
+    border: none;
+    margin: 0
+}
+
+.eventpage-card.review-card .event-review .review-submit .comment,
+.eventpage-card.review-card .event-review .review-submit .comment-action,
+.eventpage-card.session-card .session {
+    padding: 0;
+    margin-top: 16px
+}
+
+.eventpage-card.review-card .event-review .review-submit .comment-box textarea {
+    background-color: #fff;
+    -webkit-box-shadow: inset 0 1px 1px 0 #aaa;
+    box-shadow: inset 0 1px 1px 0 #aaa;
+    border: 1px solid #efefef;
+    padding: 8px;
+    height: 125px;
+    resize: none;
+    border-radius: 0;
+    font-family: "Open Sans", sans-serif
+}
+
+.eventpage-card.qna-card .qna input:focus,
+.eventpage-card.review-card .event-review .review-submit .comment-box textarea:focus {
+    border-color: #80bdff
+}
+
+.eventpage-card.review-card .event-review .review-submit .comment-action .submit-btn {
+    width: 76px;
+    border-radius: 0;
+    background-color: #31cdb4;
+    font-size: 13px;
+    color: #fff;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 700;
+    text-align: center;
+    outline: 0;
+    height: 24px;
+    padding: 2px 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    float: right
+}
+
+.eventpage-card.review-card .event-review .review-submit .comment-action .dismiss {
+    font-family: "Open Sans", sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #757575;
+    margin-bottom: 0;
+    float: right;
+    margin-right: 24px;
+    cursor: pointer
+}
+
+.eventpage-card.review-card .event-review .rating-total h4 {
+    font-family: "Open Sans", sans-serif;
+    font-size: 48px;
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1;
+    letter-spacing: normal;
+    color: #757575;
+    margin: 0
+}
+
+.eventpage-card.qna-card .qna-wrapper .question-detail-dummy p,
+.eventpage-card.qna-card .qna-wrapper .question-hint p {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal
+}
+
+.eventpage-card.review-card .event-review .rating-display {
+    padding-left: 16px
+}
+
+.eventpage-card.qna-card .qna {
+    padding: 0;
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center
+}
+
+.eventpage-card.qna-card .qna-wrapper .question-container {
+    padding: 0;
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -ms-flex-line-pack: center;
+    align-content: center;
+    margin-bottom: 24px
+}
+
+.eventpage-card.qna-card .qna-wrapper .question-hint p {
+    font-size: 18px;
+    color: #212121;
+    margin-bottom: 0;
+    width: 28px
+}
+
+.eventpage-card.qna-card .qna-wrapper .question-detail {
+    margin-left: 20px
+}
+
+.eventpage-card.qna-card .qna-wrapper .question-detail-dummy p {
+    font-size: 12px;
+    color: #757575;
+    margin-bottom: 20px
+}
+
+.eventpage-card.qna-card .qna-wrapper .answer p,
+.eventpage-card.qna-card .qna-wrapper .question-name h4 {
+    font-family: "Open Sans", sans-serif;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #212121
+}
+
+.eventpage-card.qna-card .qna-wrapper .question-detail-dummy p:first-child {
+    font-size: 14px;
+    font-weight: 700
+}
+
+.eventpage-card.qna-card .qna-wrapper .question-name {
+    margin-bottom: 7px
+}
+
+.eventpage-card.qna-card .qna-wrapper .question-name h4 {
+    font-size: 18px;
+    font-weight: 700;
+    margin: 0
+}
+
+.eventpage-card.qna-card .qna-wrapper .question-info {
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -ms-flex-line-pack: center;
+    align-content: center
+}
+
+.eventpage-card.qna-card .qna-wrapper .question-info p:first-child {
+    font-family: "Open Sans", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #757575;
+    margin-bottom: 0;
+    width: 143.5px
+}
+
+.eventpage-card.qna-card .qna-wrapper .question-info p span a {
+    color: #4990e2;
+    text-decoration: none
+}
+
+.eventpage-card.qna-card .qna-wrapper .question-info .action {
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -ms-flex-line-pack: center;
+    align-content: center;
+    margin-left: 48px;
+    cursor: pointer
+}
+
+.eventpage-card.qna-card .qna-wrapper .question-info .action p {
+    font-family: "Open Sans", sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1;
+    letter-spacing: normal;
+    color: #4990e2;
+    margin-bottom: 0
+}
+
+.eventpage-card.qna-card .qna-wrapper .answer p {
+    font-size: 13px;
+    font-weight: 400;
+    margin-bottom: 6px
+}
+
+.eventpage-card.qna-card .qna-wrapper .answer-collapse p,
+.eventpage-card.qna-card .qna-wrapper .answer-expand p,
+.eventpage-card.qna-card .qna-wrapper .answer-hint p,
+.eventpage-card.session-card .session-time p {
+    font-family: "Open Sans", sans-serif;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    margin-bottom: 0
+}
+
+.eventpage-card.qna-card .qna-wrapper .answer-info p {
+    font-family: "Open Sans", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #757575
+}
+
+.eventpage-card.qna-card .qna-wrapper .answer-container {
+    padding: 0;
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -ms-flex-line-pack: center;
+    align-content: center
+}
+
+.eventpage-card.qna-card .qna-wrapper .answer-collapse p,
+.eventpage-card.qna-card .qna-wrapper .answer-expand p {
+    font-size: 12px;
+    font-weight: 400;
+    color: #4990e2;
+    cursor: pointer
+}
+
+.eventpage-card.qna-card .qna-wrapper .answer-collapse p .icon,
+.eventpage-card.qna-card .qna-wrapper .answer-expand p .icon {
+    color: #757575;
+    margin-right: 6px
+}
+
+.eventpage-card.qna-card .qna-wrapper .answer-hint p {
+    font-size: 18px;
+    font-weight: 600;
+    color: #212121;
+    width: 26px
+}
+
+.eventpage-card.qna-card .qna-wrapper .answer-wrapper {
+    margin-bottom: 24px
+}
+
+.eventpage-card.qna-card .qna input {
+    height: 36px;
+    background-color: #fff;
+    -webkit-box-shadow: inset 0 1px 1px 0 #aaa;
+    box-shadow: inset 0 1px 1px 0 #aaa;
+    border: 1px solid #efefef;
+    padding: 5px 10px;
+    border-radius: 0
+}
+
+.eventpage-card.qna-card .qna .btn-ask {
+    width: 72px;
+    border-radius: 0;
+    background-color: #31cdb4;
+    font-size: 13px;
+    color: #fff;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 700;
+    text-align: center;
+    outline: 0;
+    height: 36px;
+    padding: 0;
+    margin-left: 16px
+}
+
+.eventpage-card.session-card .session-wrapper {
+    padding: 0;
+    margin-top: 36px
+}
+
+.eventpage-card.session-card .session-wrapper:first-child,
+.eventpage-card.speaker-card .speaker-wrapper:first-child,
+.eventpage-card.speaker-card .speaker-wrapper:nth-child(2),
+.eventpage-card.speaker-card .speaker-wrapper:nth-child(3) {
+    margin-top: 0
+}
+
+.eventpage-card.session-card .session-container {
+    padding: 0;
+    border-bottom: 1px solid #979797;
+    margin-bottom: 24px
+}
+
+.eventpage-card.session-card .session-date {
+    padding: 0;
+    margin-bottom: 24px
+}
+
+.eventpage-card.session-card .session-date h4 {
+    font-family: "Open Sans", sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #000;
+    margin: 0
+}
+
+.eventpage-card.session-card .session-time p {
+    font-size: 20px;
+    font-weight: 400;
+    color: #757575
+}
+
+.eventpage-card.session-card .session-name,
+.eventpage-card.session-card .session-speaker p {
+    font-size: 20px;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #000
+}
+
+.eventpage-card.session-card .session-detail_wrapper {
+    padding: 36px 0;
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    border-bottom: 1px solid #979797
+}
+
+.eventpage-card.session-card .session-detail_wrapper:first-child {
+    padding-top: 0
+}
+
+.eventpage-card.session-card .session-speaker {
+    width: 40%;
+    padding-left: 36px
+}
+
+.eventpage-card.session-card .session-speaker p {
+    margin-bottom: 8px;
+    cursor: pointer
+}
+
+.eventpage-card.session-card .session-info {
+    width: 60%
+}
+
+.eventpage-card.session-card .session-name {
+    margin-bottom: 12px
+}
+
+.eventpage-card.session-card .session-description {
+    font-family: "Open Sans", sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #757575;
+    margin-bottom: 0;
+    word-break: break-word
+}
+
+.eventpage-card.speaker-card .speaker {
+    margin-top: 16px;
+    padding: 0;
+    width: calc(100% - 4px)
+}
+
+.eventpage-card.speaker-card .speaker-list {
+    padding: 0;
+    width: calc(100% + 48px)
+}
+
+.eventpage-card.speaker-card .speaker-wrapper {
+    padding: 0;
+    margin-top: 60px
+}
+
+.eventpage-card.speaker-card .speaker-image {
+    cursor: pointer;
+    padding: 0;
+    height: 246px
+}
+
+.eventpage-card.speaker-card .speaker-info h4 {
+    font-family: "Open Sans", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #000;
+    margin-top: 12px;
+    margin-bottom: 0;
+    word-break: break-word
+}
+
+.eventpage-card.speaker-card .speaker-info p,
+.eventpage-card.speaker-card .speaker-info p:first-child {
+    font-size: 14px;
+    color: #000;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal
+}
+
+.eventpage-card.speaker-card .speaker-info p {
+    margin-top: 8px;
+    margin-bottom: 0
+}
+
+@media (max-width:480px) {
+    .eventpage-card.review-card .event-review .review.user-reply {
+        margin-left: 35px;
+        width: calc(100% - 35px)
+    }
+
+    .eventpage-card.review-card .event-review .review.user-reply .review-time p {
+        text-align: right
+    }
+
+    .eventpage-card.qna-card .qna,
+    .eventpage-card.review-card .event-review .review-wrapper:first-child .review {
+        display: inline-block
+    }
+
+    .eventpage-card.review-card .event-review .review-wrapper .no-review p {
+        text-align: left
+    }
+
+    .eventpage-card.qna-card .qna-wrapper .question-info .action p,
+    .eventpage-card.review-card .event-review .review-total {
+        width: 100%
+    }
+
+    .eventpage-card.review-card .event-review .review-comment {
+        width: 100%;
+        margin-top: 16px
+    }
+
+    .eventpage-card.review-card .event-review .review-comment .btn-review {
+        float: left;
+        padding: 7px 0
+    }
+
+    .eventpage-card.review-card .event-review .review-reviewer .reviewer-detail {
+        margin-left: 15px
+    }
+
+    .eventpage-card.review-card .event-review .review-reviewer .reviewer-name,
+    .eventpage-card.session-card .session-name,
+    .eventpage-card.session-card .session-speaker p,
+    .eventpage-card.session-card .session-time p,
+    .eventpage-card.speaker-card .speaker-info p {
+        font-size: 13px
+    }
+
+    .eventpage-card.qna-card .qna-wrapper .question-name h4 {
+        font-size: 16px
+    }
+
+    .eventpage-card.qna-card .qna-wrapper .question-info p {
+        width: 50%
+    }
+
+    .eventpage-card.qna-card .qna-wrapper .question-info .action {
+        margin-left: 20px
+    }
+
+    .eventpage-card.qna-card .qna .btn-ask {
+        float: right;
+        margin-top: 15px;
+        width: 76px;
+        height: 26px;
+        padding: 3px
+    }
+
+    .eventpage-card.session-card .session-date {
+        margin-bottom: 6px
+    }
+
+    .eventpage-card.session-card .session-date h4,
+    .eventpage-card.speaker-card .speaker-info h4 {
+        font-size: 18px
+    }
+
+    .eventpage-card.session-card .session-detail_wrapper {
+        padding-bottom: 24px;
+        padding-top: 16px
+    }
+
+    .eventpage-card.session-card .session-detail_wrapper:first-child {
+        padding-top: 16px
+    }
+
+    .eventpage-card.speaker-card .speaker {
+        width: calc(100% - 24px)
+    }
+
+    .eventpage-card.speaker-card .speaker-list {
+        width: calc(100% + 24px)
+    }
+
+    .eventpage-card.speaker-card .speaker-wrapper {
+        margin-top: 24px
+    }
+
+    .eventpage-card.speaker-card .speaker-image {
+        height: 144px
+    }
+}
+
+.eventpage-card.speaker-card .speaker-info p:last-child {
+    font-family: "Open Sans", sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #757575;
+    height: 110px;
+    overflow: hidden
+}
+
+@media only screen and (min-width:768px) and (max-width:991px) {
+    .infor-last p {
+        font-size: 20px;
+        text-align: left
+    }
+
+    .infor-last p span {
+        margin-bottom: 30px
+    }
+}
+
+@media only screen and (min-width:320px) and (max-width:767px) {
+    .infor-last p span {
+        line-height: 18px
+    }
+
+    .infor-last p {
+        text-align: center !important
+    }
+}
